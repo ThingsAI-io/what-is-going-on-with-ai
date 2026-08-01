@@ -1,19 +1,8 @@
----
-type: Index
-title: What Is Going On With AI
-description: Entry point for the repository's bibliography-focused OKF content.
-tags:
-  - ai
-  - index
-  - bibliography
-status: stable
----
-
 # What Is Going On With AI
 
-This index anchors the repository's content tree.
+This repository is a structured inquiry into the AI transformation of economy, society, and work.
 
-Current focus:
+## Sections
 
-- `bibliography/` for analytical entries on sources that help conceptualize the AI transformation or document its effects.
-- `frameworks/` for synthetic pages that distill reusable concepts from the bibliography.
+- [Bibliography](bibliography/) - analytical entries for sources that help conceptualize the transformation or document its effects.
+- [Frameworks](frameworks/) - synthetic pages that distill reusable concepts from the bibliography.
