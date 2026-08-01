@@ -9,6 +9,7 @@ import { parseDocument } from 'yaml';
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DEFAULT_CONTENT_DIR = path.join(ROOT_DIR, 'content');
 const DEFAULT_SCHEMA_DIR = path.join(ROOT_DIR, 'schema');
+const MARKDOWN_LINK_RE = /\[[^\]]*\]\(([^)]+)\)/g;
 
 class ValidationResult {
   constructor() {
@@ -55,6 +56,25 @@ function walkMarkdownFiles(rootDir) {
       const fullPath = path.join(currentDir, entry.name);
       if (entry.isDirectory()) {
         walk(fullPath);
+      } else if (entry.isFile() && entry.name.endsWith('.md') && entry.name !== 'index.md' && entry.name !== 'log.md') {
+        files.push(fullPath);
+      }
+    }
+  }
+
+  walk(rootDir);
+  files.sort();
+  return files;
+}
+
+function walkAllMarkdownFiles(rootDir) {
+  const files = [];
+
+  function walk(currentDir) {
+    for (const entry of fs.readdirSync(currentDir, { withFileTypes: true })) {
+      const fullPath = path.join(currentDir, entry.name);
+      if (entry.isDirectory()) {
+        walk(fullPath);
       } else if (entry.isFile() && entry.name.endsWith('.md')) {
         files.push(fullPath);
       }
@@ -64,6 +84,23 @@ function walkMarkdownFiles(rootDir) {
   walk(rootDir);
   files.sort();
   return files;
+}
+
+function walkDirectories(rootDir) {
+  const directories = [];
+
+  function walk(currentDir) {
+    directories.push(currentDir);
+    for (const entry of fs.readdirSync(currentDir, { withFileTypes: true })) {
+      if (entry.isDirectory()) {
+        walk(path.join(currentDir, entry.name));
+      }
+    }
+  }
+
+  walk(rootDir);
+  directories.sort();
+  return directories;
 }
 
 function parseFrontmatter(text, filePath, required) {
@@ -104,6 +141,81 @@ function parseFrontmatter(text, filePath, required) {
   }
 
   return { frontmatter, body };
+}
+
+function parseReservedMarkdown(text, filePath) {
+  const lines = text.split(/\r?\n/);
+  if (lines.length > 0 && lines[0].trim() === '---') {
+    throw new Error(`${filePath}: reserved markdown files must not contain YAML frontmatter`);
+  }
+
+  return { body: text };
+}
+
+function isExternalLink(target) {
+  return ['http://', 'https://', 'mailto:', 'tel:'].some((prefix) => target.startsWith(prefix));
+}
+
+function stripAnchor(target) {
+  return target.split('#', 1)[0];
+}
+
+function isPathInsideRoot(rootPath, candidatePath) {
+  const relative = path.relative(rootPath, candidatePath);
+  return relative === '' || (!relative.startsWith('..') && !path.isAbsolute(relative));
+}
+
+function resolveLinkTarget(filePath, linkTarget, bundleRoot) {
+  const target = stripAnchor(linkTarget).trim();
+  if (!target || isExternalLink(target)) {
+    return null;
+  }
+
+  const resolved = target.startsWith('/')
+    ? path.resolve(bundleRoot, target.slice(1))
+    : path.resolve(path.dirname(filePath), target);
+
+  return resolved;
+}
+
+function validateMarkdownLinks(filePath, body, bundleRoot, result) {
+  for (const match of body.matchAll(MARKDOWN_LINK_RE)) {
+    const target = match[1].trim();
+    if (!target || isExternalLink(target)) {
+      continue;
+    }
+
+    const resolved = resolveLinkTarget(filePath, target, bundleRoot);
+    if (!resolved) {
+      continue;
+    }
+
+    if (!isPathInsideRoot(bundleRoot, resolved)) {
+      result.error(`${filePath}: markdown link \`${target}\` escapes the content root`);
+      continue;
+    }
+
+    if (target.endsWith('/')) {
+      const expected = path.join(resolved, 'index.md');
+      if (!fs.existsSync(expected)) {
+        result.error(`${filePath}: markdown link \`${target}\` does not resolve to a directory index.md`);
+      }
+      continue;
+    }
+
+    if (!path.extname(resolved)) {
+      const mdCandidate = `${resolved}.md`;
+      const indexCandidate = path.join(resolved, 'index.md');
+      if (!fs.existsSync(mdCandidate) && !fs.existsSync(indexCandidate)) {
+        result.error(`${filePath}: markdown link \`${target}\` does not resolve to an existing content file`);
+      }
+      continue;
+    }
+
+    if (!fs.existsSync(resolved)) {
+      result.error(`${filePath}: markdown link \`${target}\` does not resolve to an existing content file`);
+    }
+  }
 }
 
 function formatAjvPath(instancePath) {
@@ -217,6 +329,16 @@ function validateDocument(filePath, validators, result) {
   }
 }
 
+function validateReservedDocument(filePath, result) {
+  try {
+    const { body } = parseReservedMarkdown(fs.readFileSync(filePath, 'utf8'), filePath);
+    return body;
+  } catch (error) {
+    result.error(error.message);
+    return null;
+  }
+}
+
 export function validateContent(contentDirInput = DEFAULT_CONTENT_DIR, schemaDirInput = DEFAULT_SCHEMA_DIR) {
   const contentDir = path.resolve(contentDirInput);
   const schemaDir = path.resolve(schemaDirInput);
@@ -233,6 +355,35 @@ export function validateContent(contentDirInput = DEFAULT_CONTENT_DIR, schemaDir
   }
 
   const validators = buildSchemaModel(schemaDir);
+
+  for (const directory of walkDirectories(contentDir)) {
+    const indexPath = path.join(directory, 'index.md');
+    if (!fs.existsSync(indexPath)) {
+      result.error(`${indexPath}: missing required index.md`);
+      continue;
+    }
+    validateReservedDocument(indexPath, result);
+  }
+
+  for (const filePath of walkAllMarkdownFiles(contentDir)) {
+    let body = null;
+    const baseName = path.basename(filePath);
+
+    try {
+      if (baseName === 'index.md' || baseName === 'log.md') {
+        body = validateReservedDocument(filePath, result);
+      } else {
+        ({ body } = parseFrontmatter(fs.readFileSync(filePath, 'utf8'), filePath, true));
+      }
+    } catch (error) {
+      result.error(error.message);
+      continue;
+    }
+
+    if (body != null) {
+      validateMarkdownLinks(filePath, body, contentDir, result);
+    }
+  }
 
   for (const filePath of walkMarkdownFiles(contentDir)) {
     validateDocument(filePath, validators, result);

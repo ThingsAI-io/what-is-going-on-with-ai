@@ -31,8 +31,11 @@ const baseSchema = `{
 test('valid content bundle passes', () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'okf-starter-kit-'));
   try {
-    write(root, 'index.md', '---\ntype: Index\ntitle: Example bundle\ndescription: A small example bundle.\n---\n\n# Example bundle\n');
+    write(root, 'index.md', '# Example bundle\n\n- [Notes](notes/)\n- [Checklists](checklists/)\n');
+    write(root, 'notes/index.md', '# Notes\n\n- [Example note](example.md)\n');
     write(root, 'notes/example.md', '---\ntype: Note\ntitle: Example note\ndescription: A valid note.\n---\n\n# Note\n');
+    write(root, 'checklists/index.md', '# Checklists\n\n- [Writing checklist](writing-checklist.md)\n');
+    write(root, 'checklists/writing-checklist.md', '---\ntype: Checklist\ntitle: Writing checklist\ndescription: A valid checklist.\n---\n\n# Checklist\n');
 
     const result = validateContent(root);
     assert.equal(result.errors.length, 0);
@@ -68,6 +71,11 @@ test('a newly added schema file is discovered automatically', () => {
     );
     write(
       contentRoot,
+      'index.md',
+      '# Example bundle\n'
+    );
+    write(
+      contentRoot,
       'essay.md',
       `---
 type: Essay
@@ -89,11 +97,39 @@ audience: writers
 test('missing frontmatter is rejected', () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'okf-starter-kit-'));
   try {
-    write(root, 'index.md', '---\ntype: Index\ntitle: Example bundle\ndescription: A small example bundle.\n---\n');
+    write(root, 'index.md', '# Example bundle\n');
+    write(root, 'notes/index.md', '# Notes\n');
     write(root, 'notes/example.md', '# Missing frontmatter\n');
 
     const result = validateContent(root);
     assert.match(result.errors.join('\n'), /missing YAML frontmatter block/);
+  } finally {
+    fs.rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test('missing directory indexes are rejected', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'okf-starter-kit-'));
+  try {
+    write(root, 'index.md', '# Example bundle\n');
+    write(root, 'notes/example.md', '---\ntype: Note\ntitle: Example note\ndescription: A valid note.\n---\n');
+
+    const result = validateContent(root);
+    assert.match(result.errors.join('\n'), /notes[\\/]index\.md: missing required index\.md/);
+  } finally {
+    fs.rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test('broken internal markdown links are rejected', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'okf-starter-kit-'));
+  try {
+    write(root, 'index.md', '# Example bundle\n\n- [Notes](notes/)\n');
+    write(root, 'notes/index.md', '# Notes\n\n- [Broken link](missing.md)\n');
+    write(root, 'notes/example.md', '---\ntype: Note\ntitle: Example note\ndescription: A valid note.\n---\n');
+
+    const result = validateContent(root);
+    assert.match(result.errors.join('\n'), /notes[\\/]index\.md: markdown link `missing\.md` does not resolve to an existing content file/);
   } finally {
     fs.rmSync(root, { recursive: true, force: true });
   }

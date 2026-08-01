@@ -1,15 +1,20 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://okf-starter-kit.local/schema/note.schema.json",
+  "$id": "https://okf-starter-kit.local/schema/bibliography.schema.json",
   "allOf": [
     {
       "$ref": "https://okf-starter-kit.local/schema/content.schema.json"
     },
     {
       "type": "object",
+      "required": ["reference"],
       "properties": {
         "type": {
-          "const": "Note"
+          "const": "Bibliography"
+        },
+        "reference": {
+          "type": "object",
+          "additionalProperties": true
         }
       }
     }
