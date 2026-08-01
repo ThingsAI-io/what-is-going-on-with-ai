@@ -129,6 +129,7 @@ In other words: regenerative software is not just a software practice. It is a s
 
 ## Connections to Current Repo
 
+- [Separation of Concerns](separation-of-concerns.md): the methodological foundation for treating intent, interfaces, evaluations, and implementations as distinct layers.
 - [Generative AI at Work](../bibliography/2025-brynjolfsson-generative-ai-at-work.md): shows how AI changes productivity, learning, and worker experience inside a firm.
 - [From Future of Work to Future of Workers: The AI-as-Amplifier Paradox](../bibliography/2026-ehsan-ai-amplifier-paradox.md): shows the hidden cost of productivity gains when expertise erodes.
 - [Generative AI as a Non-Convex Supply Shock](../bibliography/2026-zhang-genai-supply-shock.md): shows how abundance can create bifurcation and pollution rather than just lower cost.

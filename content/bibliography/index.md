@@ -4,6 +4,7 @@ This folder contains analytical entries for sources that help conceptualize the 
 
 ## Entries
 
+- [1982 Dijkstra - On the Role of Scientific Thought](1982-dijkstra-role-scientific-thought.md) - classic essay on separation of concerns and the role of disciplined scientific thinking in computing.
 - [2010 Cusumano - Technology strategy and management: The evolution of platform thinking](2010-cusumano-evolution-platform-thinking.md) - concise strategic synthesis of product versus industry platforms.
 - [2009 Gawer - Platforms, Markets and Innovation](2009-gawer-platforms-markets-and-innovation.md) - broad conceptual treatment of platform thinking across internal, supply chain, and industry settings.
 - [2024 Khanfar - Determinants of Artificial Intelligence Adoption](2024-khanfar-ai-adoption-determinants.md) - bibliometric map of AI adoption research and its theory gaps.
