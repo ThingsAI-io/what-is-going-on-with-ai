@@ -6,6 +6,8 @@ This folder contains analytical entries for sources that help conceptualize the 
 
 - [1982 Dijkstra - On the Role of Scientific Thought](1982-dijkstra-role-scientific-thought.md) - classic essay on separation of concerns and the role of disciplined scientific thinking in computing.
 - [2010 Cusumano - Technology strategy and management: The evolution of platform thinking](2010-cusumano-evolution-platform-thinking.md) - concise strategic synthesis of product versus industry platforms.
+- [2010 Durand and Vergne - L'organisation pirate: Essai sur l'évolution du capitalisme](2010-durand-vergne-organisation-pirate.md) - theory of piracy as an organizational form that pushes capitalism to evolve.
+- [2012 Dumez - Sur l'organisation pirate. Le capitalisme et son double](2012-dumez-sur-lorganisation-pirate-capitalisme-et-son-double.md) - review of Durand and Vergne's pirate thesis, sympathetic but critical.
 - [2009 Gawer - Platforms, Markets and Innovation](2009-gawer-platforms-markets-and-innovation.md) - broad conceptual treatment of platform thinking across internal, supply chain, and industry settings.
 - [2024 Khanfar - Determinants of Artificial Intelligence Adoption](2024-khanfar-ai-adoption-determinants.md) - bibliometric map of AI adoption research and its theory gaps.
 - [2025 Brynjolfsson, Li, Raymond - Generative AI at Work](2025-brynjolfsson-generative-ai-at-work.md) - field evidence on productivity, learning, and worker experience under AI assistance.
