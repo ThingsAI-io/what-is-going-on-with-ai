@@ -5,6 +5,8 @@ This folder contains analytical entries for sources that help conceptualize the 
 ## Entries
 
 - [1982 Dijkstra - On the Role of Scientific Thought](1982-dijkstra-role-scientific-thought.md) - classic essay on separation of concerns and the role of disciplined scientific thinking in computing.
+- [1994 McLuhan - Understanding Media: The Extensions of Man](1994-mcluhan-understanding-media.md) - classic media theory of attention, perception, and media as extensions of human faculties.
+- [1998 Clark and Chalmers - The Extended Mind](1998-clark-chalmers-extended-mind.md) - foundational extended-mind argument about reliable coupling between people and tools.
 - [2010 Cusumano - Technology strategy and management: The evolution of platform thinking](2010-cusumano-evolution-platform-thinking.md) - concise strategic synthesis of product versus industry platforms.
 - [2010 Durand and Vergne - L'organisation pirate: Essai sur l'évolution du capitalisme](2010-durand-vergne-organisation-pirate.md) - theory of piracy as an organizational form that pushes capitalism to evolve.
 - [2012 Dumez - Sur l'organisation pirate. Le capitalisme et son double](2012-dumez-sur-lorganisation-pirate-capitalisme-et-son-double.md) - review of Durand and Vergne's pirate thesis, sympathetic but critical.
@@ -15,6 +17,8 @@ This folder contains analytical entries for sources that help conceptualize the 
 - [2025 Chaar et al. - AI and the Global Productivity Divide](2025-chaar-ai-global-productivity-divide.md) - policy framework for uneven international AI gains.
 - [2025 Fowler - Regenerative Software](2025-fowler-regenerative-software.md) - manifesto on code as disposable substrate rather than durable asset.
 - [2026 Ehsan et al. - The AI-as-Amplifier Paradox](2026-ehsan-ai-amplifier-paradox.md) - longitudinal account of expertise erosion under AI use.
+- [2015 Verbeek - Beyond Interaction: A Short Introduction to Mediation Theory](2015-verbeek-beyond-interaction.md) - mediation theory of how technologies shape practices, perceptions, and decision-making.
+- [2021 Vygotsky - Thought and Language](2021-vygotsky-thought-and-language.md) - social origin and internalization of speech into verbal thought.
 - [2026 Liang and Lu - Creative Ownership in the Age of AI](2026-liang-creative-ownership-ai.md) - economic theory of infringement and dependence in generative systems.
 - [2026 Lordon - Marx va avoir raison](2026-lordon-marx-va-avoir-raison.md) - political-economic reading of AI and class restructuring.
 - [2026 Massenkoff and McCrory - Labor Market Impacts of AI](2026-massenkoff-labor-market-impacts-ai.md) - early labor-market evidence built on observed AI exposure.
