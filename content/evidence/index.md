@@ -9,3 +9,5 @@ Analyses of the AI transformation's concrete effects on markets, firms, institut
 - [Hidden AI Debts of Five US Tech Giants: Nikkei's $1.65tn Estimate](2026-nikkei-hidden-ai-debt-five-tech-giants.md)
 - [AI, Speed, and Stalled ROI: Atlassian State of Teams 2026](2026-atlassian-state-of-teams-ai-fragmentation-tax.md)
 - [The AI Paradox: McKinsey on Where AI Will Create Value](2026-mckinsey-ai-paradox-where-ai-creates-value.md)
+- [Command-Line AI Agents at Microsoft: +24% Pull-Request Lift, Adoption via Peers](2026-murphy-hill-command-line-ai-coding-agents.md)
+- [Microsoft Tells Engineers: 'Tokenmaxxing Is Not What We Are Optimizing For'](2026-microsoft-token-budgets-tokenmaxxing.md)

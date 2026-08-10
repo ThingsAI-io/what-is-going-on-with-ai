@@ -84,7 +84,7 @@ This entry collects the concrete quantitative findings of [Klein Teeselink and C
 
 The evidence shows that AI exposure reduces hiring on a large scale (a 6.2% decline per standard deviation, consistent across 28 of 39 countries), while the wage consequences depend on which tasks are automated: wages rise only where automation removes low-expertise tasks and raises entry thresholds. Where automation removes high-expertise tasks, wages do not rise — job postings fall most.
 
-This supports the thesis that the AI transformation is not homogeneous across occupations: the composition of automated tasks, not just the quantity of exposure, determines whether an occupation experiences wage pressure, supply contraction, or hiring reduction.
+This supports the thesis that the AI transformation is not homogeneous across occupations: the composition of automated tasks, not just the quantity of exposure, determines whether an occupation experiences wage pressure, supply contraction, or hiring reduction. The intra-firm counterpart — who within a company gains from AI-assisted work — is documented in the [command-line AI agents at Microsoft evidence entry](2026-murphy-hill-command-line-ai-coding-agents.md), where the gains concentrate in already-active and senior engineers.
 
 ## Limits
 

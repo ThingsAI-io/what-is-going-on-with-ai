@@ -24,3 +24,4 @@ This folder contains analytical entries for sources that help conceptualize the 
 - [2026 Massenkoff and McCrory - Labor Market Impacts of AI](2026-massenkoff-labor-market-impacts-ai.md) - early labor-market evidence built on observed AI exposure.
 - [2026 Klein Teeselink and Carey - AI, Automation, and Expertise](2026-klein-teeselink-carey-ai-automation-expertise.md) - cross-country test of the expertise framework: exposure cuts job postings 6.2% per SD, wages rise where automated tasks are low-expertise.
 - [2026 Zhang and Zhang - Generative AI as a Non-Convex Supply Shock](2026-zhang-genai-supply-shock.md) - model of AI-driven market bifurcation and welfare effects.
+- [2026 Murphy-Hill, Butler, Savelieva - Adoption and Impact of Command-Line AI Coding Agents](2026-murphy-hill-command-line-ai-coding-agents.md) - telemetry field study of Microsoft's Claude Code / Copilot CLI rollout: adopters merged 24% more PRs, adoption spread via peers.
