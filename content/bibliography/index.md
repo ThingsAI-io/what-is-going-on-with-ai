@@ -22,4 +22,5 @@ This folder contains analytical entries for sources that help conceptualize the 
 - [2026 Liang and Lu - Creative Ownership in the Age of AI](2026-liang-creative-ownership-ai.md) - economic theory of infringement and dependence in generative systems.
 - [2026 Lordon - Marx va avoir raison](2026-lordon-marx-va-avoir-raison.md) - political-economic reading of AI and class restructuring.
 - [2026 Massenkoff and McCrory - Labor Market Impacts of AI](2026-massenkoff-labor-market-impacts-ai.md) - early labor-market evidence built on observed AI exposure.
+- [2026 Klein Teeselink and Carey - AI, Automation, and Expertise](2026-klein-teeselink-carey-ai-automation-expertise.md) - cross-country test of the expertise framework: exposure cuts job postings 6.2% per SD, wages rise where automated tasks are low-expertise.
 - [2026 Zhang and Zhang - Generative AI as a Non-Convex Supply Shock](2026-zhang-genai-supply-shock.md) - model of AI-driven market bifurcation and welfare effects.

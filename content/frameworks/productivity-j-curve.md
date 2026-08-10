@@ -84,3 +84,6 @@ It sits between the bibliography and the model layer: a mechanism that turns a s
 - [The Productivity J-Curve: How Intangibles Complement General Purpose Technologies](../bibliography/2021-brynjolfsson-rock-syverson-productivity-j-curve.md): the source model for this framework.
 - [Generative AI at Work](../bibliography/2025-brynjolfsson-generative-ai-at-work.md): evidence that AI can raise productivity inside firms even before the broader equilibrium is visible.
 - [AI and the Global Productivity Divide](../bibliography/2025-chaar-ai-global-productivity-divide.md): shows how adoption and complementarity differ across countries and sectors.
+- [Microsoft FY26 Q4 Earnings: Capital Expenditure and AI Revenue](../evidence/2026-microsoft-fy26-q4-earnings.md): the capex-side test of the curve, where heavy spending leads any measured return.
+- [AI, Speed, and Stalled ROI: Atlassian State of Teams 2026](../evidence/2026-atlassian-state-of-teams-ai-fragmentation-tax.md): survey evidence that individual-speed AI is not yet organizational outcome.
+- [The AI Paradox: McKinsey on Where AI Will Create Value](../evidence/2026-mckinsey-ai-paradox-where-ai-creates-value.md): the strategy-practice reading of the dip as a competitive reset rather than a guaranteed payback.

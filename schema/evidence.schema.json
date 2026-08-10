@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://okf-starter-kit.local/schema/evidence.schema.json",
+  "allOf": [
+    {
+      "$ref": "https://okf-starter-kit.local/schema/content.schema.json"
+    },
+    {
+      "type": "object",
+      "required": ["type", "source"],
+      "properties": {
+        "type": {
+          "const": "Evidence"
+        },
+        "source": {
+          "type": "object",
+          "required": ["url"],
+          "properties": {
+            "url": {
+              "type": "string",
+              "minLength": 1
+            },
+            "accessed": {
+              "$ref": "https://okf-starter-kit.local/schema/content.schema.json#/$defs/isoDate"
+            }
+          },
+          "additionalProperties": true
+        },
+        "claims": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["claim", "value"],
+            "properties": {
+              "claim": {
+                "type": "string",
+                "minLength": 1
+              },
+              "value": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
