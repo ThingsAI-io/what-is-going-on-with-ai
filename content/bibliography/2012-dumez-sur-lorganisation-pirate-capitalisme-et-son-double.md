@@ -88,3 +88,7 @@ That makes it valuable, but incomplete. The review helps with critique more than
 ## Connections to Current Repo
 
 - [Regenerative Software](2025-fowler-regenerative-software.md): a different example of how boundary-crossing practices can reshape a system's internal logic.
+- [20 Million ChatGPT Logs: Judge Stein Affirms Discovery Order in In re OpenAI Copyright Litigation](../evidence/legal/2026-openai-copyright-md-l-chatgpt-logs-discovery.md): Dumez's warning about over-extended analogies applies when reading AI-lab practices through the pirate lens.
+- [Court of Rome Annuls the €15 Million GDPR Fine the Garante Imposed on OpenAI](../evidence/legal/2026-rome-tribunal-annuls-garante-openai-fine.md): enforcement at the boundary of the legal system, where institutional answers arrive slowly.
+- [Ziff Davis v. OpenAI: robots.txt Is Not a DMCA §1201 Technological Measure](../evidence/legal/2025-ziff-davis-v-openai-robots-txt-dmca.md): Dumez's warning about over-extended analogies applies to treating every scraping signal as a legal fence.
+- [GEMA v. OpenAI: Munich Court Finds ChatGPT Reproduced German Song Lyrics](../evidence/legal/2025-gema-v-openai-lyrics-memorization.md): the pirate-organization thesis gaining concrete legal form as courts adjudicate model reproduction.

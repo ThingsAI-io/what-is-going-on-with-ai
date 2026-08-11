@@ -192,6 +192,15 @@ That makes the source useful for the project's attempt to move from generic AI c
 - [Marx va avoir raison (IA et lutte des classes)](2026-lordon-marx-va-avoir-raison.md): political economy of who gets displaced and who captures value.
 - [Regenerative Software - The Phoenix Architecture](2025-fowler-regenerative-software.md): disposable generation raises the question of what artifact is durable enough to own.
 - [AI and the Global Productivity Divide](2025-chaar-ai-global-productivity-divide.md): structural asymmetry in who can participate in AI-driven value creation.
+- [20 Million ChatGPT Logs: Judge Stein Affirms Discovery Order in In re OpenAI Copyright Litigation](../evidence/legal/2026-openai-copyright-md-l-chatgpt-logs-discovery.md): the discovery engine that will supply empirical evidence on whether outputs essentially depend on training works.
+- [Getty Images v. Stability AI: UK High Court Rules on AI Training, Output, and Infringing Articles](../evidence/legal/2025-getty-v-stability-ai-ewhc-2863-ch.md): first UK authority testing the "model as infringing article" theory against the weights-store-no-copies fact.
+- [Bartz v. Anthropic: Court Grants Final Approval to $1.5 Billion Authors' Copyright Settlement](../evidence/legal/2026-bartz-v-anthropic-settlement.md): the market-priced answer to what a training corpus costs when works are known to have been downloaded.
+- [GEMA v. OpenAI: Munich Court Finds ChatGPT Reproduced German Song Lyrics](../evidence/legal/2025-gema-v-openai-lyrics-memorization.md): direct evidence of outputs that essentially depend on particular training works — the memorized-lyrics case.
+- [Doe v. GitHub (Copilot): Ninth Circuit Weighs Whether §1202 Requires Identical Copies](../evidence/legal/2026-doe-v-github-copilot-open-source-cmi.md): the empirical test of code as a heavy-tailed domain where frontier works retain essentiality.
+- [Richner, MediaNews, and Ogden Newspapers v. Microsoft & OpenAI: ~400 Local Publishers Sue Over Training Data](../evidence/legal/2026-richner-publishers-v-microsoft-openai.md): pleaded token-count figures as a concrete measure of corpus value, and a newspaper coalition illustrating superadditivity.
+- [GEMA v. Suno: Munich Court Largely Grants the First Generative-Music Copyright Verdict](../evidence/legal/2026-gema-v-suno-music-verdict.md): a European court's memorization finding operationalizing the counterfactual criterion for music.
+- [Encyclopaedia Britannica and Merriam-Webster v. OpenAI](../evidence/legal/2026-britannica-merriam-webster-v-openai.md): pleaded near-verbatim outputs as evidence that outputs essentially depend on training works.
+- [GCC Adopts AI-Licensing Policy](../evidence/legal/2026-gcc-ai-policy-adoption.md): the essentiality/attribution question answered by commons governance rather than by courts.
 
 ## AI and Intellectual Property
 
@@ -230,6 +239,15 @@ That makes the source useful for the project's attempt to move from generic AI c
 - [Marx va avoir raison (IA et lutte des classes)](2026-lordon-marx-va-avoir-raison.md): political economy of who gets displaced and who captures value.
 - [Regenerative Software - The Phoenix Architecture](2025-fowler-regenerative-software.md): disposable generation raises the question of what artifact is durable enough to own.
 - [AI and the Global Productivity Divide](2025-chaar-ai-global-productivity-divide.md): structural asymmetry in who can participate in AI-driven value creation.
+- [20 Million ChatGPT Logs: Judge Stein Affirms Discovery Order in In re OpenAI Copyright Litigation](../evidence/legal/2026-openai-copyright-md-l-chatgpt-logs-discovery.md): the discovery engine that will supply empirical evidence on whether outputs essentially depend on training works.
+- [Getty Images v. Stability AI: UK High Court Rules on AI Training, Output, and Infringing Articles](../evidence/legal/2025-getty-v-stability-ai-ewhc-2863-ch.md): first UK authority testing the "model as infringing article" theory against the weights-store-no-copies fact.
+- [Bartz v. Anthropic: Court Grants Final Approval to $1.5 Billion Authors' Copyright Settlement](../evidence/legal/2026-bartz-v-anthropic-settlement.md): the market-priced answer to what a training corpus costs when works are known to have been downloaded.
+- [GEMA v. OpenAI: Munich Court Finds ChatGPT Reproduced German Song Lyrics](../evidence/legal/2025-gema-v-openai-lyrics-memorization.md): direct evidence of outputs that essentially depend on particular training works — the memorized-lyrics case.
+- [Doe v. GitHub (Copilot): Ninth Circuit Weighs Whether §1202 Requires Identical Copies](../evidence/legal/2026-doe-v-github-copilot-open-source-cmi.md): the empirical test of code as a heavy-tailed domain where frontier works retain essentiality.
+- [Richner, MediaNews, and Ogden Newspapers v. Microsoft & OpenAI: ~400 Local Publishers Sue Over Training Data](../evidence/legal/2026-richner-publishers-v-microsoft-openai.md): pleaded token-count figures as a concrete measure of corpus value, and a newspaper coalition illustrating superadditivity.
+- [GEMA v. Suno: Munich Court Largely Grants the First Generative-Music Copyright Verdict](../evidence/legal/2026-gema-v-suno-music-verdict.md): a European court's memorization finding operationalizing the counterfactual criterion for music.
+- [Encyclopaedia Britannica and Merriam-Webster v. OpenAI](../evidence/legal/2026-britannica-merriam-webster-v-openai.md): pleaded near-verbatim outputs as evidence that outputs essentially depend on training works.
+- [GCC Adopts AI-Licensing Policy](../evidence/legal/2026-gcc-ai-policy-adoption.md): the essentiality/attribution question answered by commons governance rather than by courts.
 
 # Open Questions and Future Directions
 

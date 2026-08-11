@@ -11,3 +11,4 @@ Analyses of the AI transformation's concrete effects on markets, firms, institut
 - [The AI Paradox: McKinsey on Where AI Will Create Value](2026-mckinsey-ai-paradox-where-ai-creates-value.md)
 - [Command-Line AI Agents at Microsoft: +24% Pull-Request Lift, Adoption via Peers](2026-murphy-hill-command-line-ai-coding-agents.md)
 - [Microsoft Tells Engineers: 'Tokenmaxxing Is Not What We Are Optimizing For'](2026-microsoft-token-budgets-tokenmaxxing.md)
+- [Legal & Regulatory](legal/index.md) — court rulings, settlements, and enforcement against AI companies
