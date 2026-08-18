@@ -29,6 +29,12 @@ Whenever possible, entries in this repository seek to answer:
 
 Currently not accepting contributions, thinking about an operating model for that.
 
+## Disclaimer
+
+This repository was designed, researched, and written with substantial assistance from AI systems. The ideas, the choices of what to include, the analysis, and the positions expressed are mine: I take ownership of them and I hold myself responsible for errors of fact or judgment. AI tools were used as instruments — helping to structure the inquiry, to draft and refine text, and to accelerate research — while the intellectual commitments and the final editorial control remain human.
+
+Two caveats follow. First, AI-assisted drafting can produce confident-sounding but wrong statements; evidence entries are fact-checked against primary sources, but a mistake may remain. Second, this project is a working attempt to think clearly in a confusing moment, not a finished or authoritative account — it should be read, and challenged, as such.
+
 ## License
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE) (CC BY-SA 4.0).
