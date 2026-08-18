@@ -56,7 +56,7 @@ Three headline findings: first use spread **primarily through social networks**;
 # Relevance to This Repository
 
 - This is the strongest quantitative field evidence so far on the [AI productivity paradox](../evidence/2026-atlassian-state-of-teams-ai-fragmentation-tax.md) at the task level: output does move, and it moves lastingly, for a selected set of adopters.
-- It connects the [Microsoft capex evidence entry](../evidence/2026-microsoft-fy26-q4-earnings.md): the capital being spent on AI tooling here shows up as a measurable engineering-output lift, not just as cost.
+- It connects the [Microsoft capex evidence entry](../evidence/finance-of-ai/2026-microsoft-fy26-q4-earnings.md): the capital being spent on AI tooling here shows up as a measurable engineering-output lift, not just as cost.
 - It adds an adoption-mechanism layer to the [productivity J-curve](../frameworks/productivity-j-curve.md): visible peer use drives uptake, and sustained gain depends on whether the tool survives into habitual use.
 - It extends the labor-demand story in [Klein Teeselink and Carey](../evidence/2026-klein-teeselink-carey-ai-automation-expertise.md) with the opposing margin: within firms, AI-assisted engineers produce more output, concentrated in already-active and senior engineers.
 

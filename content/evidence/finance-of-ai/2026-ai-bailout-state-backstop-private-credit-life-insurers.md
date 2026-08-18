@@ -60,7 +60,7 @@ claims:
 
 ## What This Is
 
-On August 3, 2026, David Dayen (executive editor, The American Prospect) published an analysis applying a new law review paper — Granato and Drall, *[Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers](../bibliography/2026-drall-granato-private-credit-state-backstop.md)* (SSRN 7152239) — to the summer-2026 AI market rout. Dayen's argument: private credit is private equity's ~$3 trillion financing arm, and it is entangled in the AI buildout through data-center loans; those loans flow into life insurers owned by the same private equity firms; and if those loans default, state guaranty funds — repaid largely through state premium-tax credits — make taxpayers the backstop. "If AI is propping up the economy, who is propping up AI?" Dayen asks. "The answer... could be the U.S. taxpayer."
+On August 3, 2026, David Dayen (executive editor, The American Prospect) published an analysis applying a new law review paper — Granato and Drall, *[Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers](../../bibliography/2026-drall-granato-private-credit-state-backstop.md)* (SSRN 7152239) — to the summer-2026 AI market rout. Dayen's argument: private credit is private equity's ~$3 trillion financing arm, and it is entangled in the AI buildout through data-center loans; those loans flow into life insurers owned by the same private equity firms; and if those loans default, state guaranty funds — repaid largely through state premium-tax credits — make taxpayers the backstop. "If AI is propping up the economy, who is propping up AI?" Dayen asks. "The answer... could be the U.S. taxpayer."
 
 The article is the bridge that maps a general financial-mechanism paper onto the AI bubble. Its financial figures are grounded in the paper (verified below); its AI-market figures are contemporaneous reporting that this entry records as-reported.
 
@@ -79,7 +79,7 @@ The article is the bridge that maps a general financial-mechanism paper onto the
 
 ## The Insolvency Backstop (verified against the paper)
 
-The core numbers in Dayen's article trace to the primary source, [Granato and Drall, "Private Credit's State Backstop"](../bibliography/2026-drall-granato-private-credit-state-backstop.md), verified from the full paper text:
+The core numbers in Dayen's article trace to the primary source, [Granato and Drall, "Private Credit's State Backstop"](../../bibliography/2026-drall-granato-private-credit-state-backstop.md), verified from the full paper text:
 
 - **49.5%** of new PE-owned insurers' investment was in privately-placed instruments in 2024, versus **13.9%** for independent insurers (Granato & Drall, citing Huber et al. 2026).
 - Guaranty funds cover up to **$300,000 of life-insurance benefits** and **$250,000 in present value of annuity benefits** per insured; assessments on surviving insurers are capped at **2% of premium volume per year** and apportioned by premium-volume share.
@@ -89,7 +89,7 @@ The core numbers in Dayen's article trace to the primary source, [Granato and Dr
 
 ## Why It Matters for This Repository
 
-This entry documents the **state-funded downside of the AI credit cycle** — the institutional counterpart to the off-balance-sheet financing documented in the [hidden AI debts evidence entry](2026-nikkei-hidden-ai-debt-five-tech-giants.md). That entry shows hyperscalers pushing ~$1.65tn of data-center obligations into project-finance/SPV structures funded by private-credit funds, insurers, and banks (what the BIS calls "shadow borrowing"); this entry identifies the ultimate loss-absorber if that debt defaults: life insurers backstopped by state guaranty funds and tax credits, i.e., state taxpayers.
+This entry documents the **state-funded downside of the AI credit cycle** — the institutional counterpart to the off-balance-sheet financing documented in the [hidden AI debts evidence entry](2026-nikkei-hidden-ai-debt-five-tech-giants.md). That entry shows hyperscalers pushing ~$1.65tn of data-center obligations into project-finance/SPV structures funded by private-credit funds, insurers, and banks (what the BIS calls "shadow borrowing"); this entry identifies the ultimate loss-absorber if that debt defaults: life insurers backstopped by state guaranty funds and tax credits, i.e., state taxpayers. Bloomberg's August 2026 reporting on the [~$70bn of shadow credit backstops](2026-bloomberg-ai-shadow-credit-backstops-70bn.md) — Meta's and Broadcom's residual-value guarantees, plus Nvidia's up-to-25% support in its $500bn financing partnership — shows the credit market now pricing those guarantees as the contingent debt S&P and Moody's say they are.
 
 It also complements the [Microsoft capex evidence entry](2026-microsoft-fy26-q4-earnings.md): the capex that nearly doubled is financed partly by instruments whose downside is state-guaranteed. The 2026 AI-market events (Aschenbrenner -67%, Nasdaq correction) are the leading indicators of the stress the mechanism would be called upon to absorb.
 

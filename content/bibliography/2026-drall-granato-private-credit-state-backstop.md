@@ -58,8 +58,8 @@ The article connects this to private credit's "submerged legal infrastructure": 
 
 # Relevance to This Repository
 
-- It is the primary-source mechanism behind the [AI bailout evidence entry](../evidence/2026-ai-bailout-state-backstop-private-credit-life-insurers.md), which collects the verified numbers here and the AI-specific application from David Dayen's [American Prospect article](https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/).
-- It names the institution that is the ultimate buyer of the off-balance-sheet AI financing documented in the [hidden AI debts evidence entry](../evidence/2026-nikkei-hidden-ai-debt-five-tech-giants.md): life insurers (via private credit and affiliated private-credit funds) are a major capital source for the project-finance/SPV structures the BIS calls "shadow borrowing," and the authors show the downside of that funding is state-backed.
+- It is the primary-source mechanism behind the [AI bailout evidence entry](../evidence/finance-of-ai/2026-ai-bailout-state-backstop-private-credit-life-insurers.md), which collects the verified numbers here and the AI-specific application from David Dayen's [American Prospect article](https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/).
+- It names the institution that is the ultimate buyer of the off-balance-sheet AI financing documented in the [hidden AI debts evidence entry](../evidence/finance-of-ai/2026-nikkei-hidden-ai-debt-five-tech-giants.md): life insurers (via private credit and affiliated private-credit funds) are a major capital source for the project-finance/SPV structures the BIS calls "shadow borrowing," and the authors show the downside of that funding is state-backed.
 - It extends the repository's treatment of the AI transformation from labor and productivity to financial stability: the AI buildout's debt is being channeled through a regulatory regime designed for a sleepy, AAA-heavy industry.
 
 # What the Source Leaves Open

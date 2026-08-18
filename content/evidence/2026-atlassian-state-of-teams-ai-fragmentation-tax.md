@@ -61,7 +61,7 @@ Atlassian's Teamwork Lab surveyed 12,035 global knowledge workers and 173 Fortun
 
 ## Why It Matters for This Repository
 
-This is the enterprise-software analog of the [productivity J-curve](../frameworks/productivity-j-curve.md) material in the bibliography: AI accelerates *individual* output while measured *organizational* outcomes lag. It grounds the "speeding up the wrong thing" argument in a large, dated, methodologically described survey rather than anecdote, and it quantifies the coordination channel through which output acceleration fails to become outcome improvement — a mechanism complementary to the [Klein Teeselink & Carey labor-market finding](2026-klein-teeselink-carey-ai-automation-expertise.md) and the [Microsoft capex evidence entry](2026-microsoft-fy26-q4-earnings.md).
+This is the enterprise-software analog of the [productivity J-curve](../frameworks/productivity-j-curve.md) material in the bibliography: AI accelerates *individual* output while measured *organizational* outcomes lag. It grounds the "speeding up the wrong thing" argument in a large, dated, methodologically described survey rather than anecdote, and it quantifies the coordination channel through which output acceleration fails to become outcome improvement — a mechanism complementary to the [Klein Teeselink & Carey labor-market finding](2026-klein-teeselink-carey-ai-automation-expertise.md) and the [Microsoft capex evidence entry](finance-of-ai/2026-microsoft-fy26-q4-earnings.md).
 
 ## Limitations
 
