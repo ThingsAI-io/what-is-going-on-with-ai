@@ -1,24 +1,36 @@
-# okf-starter-kit
+# What Is Going On With AI
 
-Starter template for OKF-style writing projects.
+A structured, personal research project into the AI transformation of economy, society, and work.
 
-## Layout
+The public conversation around AI is saturated but under-conceptualized. This repository is an attempt to do the opposite of reacting faster: it collects serious sources, extracts frameworks, documents concrete effects, and gradually assembles a model of what is actually happening, for whom, and through which mechanisms.
 
-- `content/` holds the markdown documents for the project.
-- `schema/` holds JSON schema files used to validate document frontmatter.
-- `tools/validate-content.mjs` checks every content document under `content/`.
+The project's guiding question is stated in [spec/intent.md](spec/intent.md).
 
-## Schemas
+## Repository structure
 
-Drop a new `*.schema.json` file into `schema/` to add support for a new content type.
-The validator discovers schema files automatically.
+- **`content/bibliography/`** — analytical entries on sources that help conceptualize the AI revolution or document its effects: concepts, mechanisms, evidence, assumptions, and limits.
+- **`content/evidence/`** — concrete manifestations of the transformation: market, institutional, organizational, and societal effects, including legal cases (`content/evidence/legal/`) and declarations (`content/evidence/declarations/`).
+- **`content/frameworks/`** — reusable conceptual tools distilled from a pluridisciplinary landscape (economics, sociology, organization and innovation science, STS, ...).
+- **`content/model/`** — synthesis pages where the accumulated material is assembled into an explicit, higher-level account of the transformation.
+- **`schema/`** — JSON Schema definitions describing the frontmatter of each content type.
+- **`spec/intent.md`** — the project's intent and standards of work.
 
-## opencode Agent
+## Standard of work
 
-This template includes a project-level opencode subagent at `.opencode/agents/content-architect.md`.
-Use it when you want help shaping content structure, schema boundaries, and naming conventions.
+Whenever possible, entries in this repository seek to answer:
 
-## Usage
+- What mechanism is being described?
+- What framework helps explain it?
+- What evidence supports it?
+- At what level does it operate (individual, organizational, sectoral, societal)?
+- How does it connect to the broader AI transformation?
 
-1. Install dependencies with `npm install`.
-2. Validate the template content with `npm run validate`.
+## Contributing
+
+Currently not accepting contributions, thinking about an operating model for that.
+
+## License
+
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE) (CC BY-SA 4.0).
+
+Copyright (c) 2026 Jean-Francois Omhover
