@@ -98,3 +98,4 @@ It does not by itself tell us who captures the gains, how the gains are distribu
 - [Generative AI at Work](2025-brynjolfsson-generative-ai-at-work.md): firm-level evidence that helps separate short-run adjustment from genuine productivity gains.
 - [AI and the Global Productivity Divide](2025-chaar-ai-global-productivity-divide.md): shows that adoption and complementarity differ sharply across countries.
 - [Functions of a Model](../model/functions-of-a-model.md): a meta-note on how this kind of mechanism should be used in the project's synthesis layer.
+- ["We Must Act Now": 200+ Economists and 16 Nobel Laureates Call for Preparation for AI's Economic Transformation](../evidence/declarations/2026-we-must-act-now-economists-ai-statement.md): the statement organized by this paper's co-author, Erik Brynjolfsson, warning that the J-curve's descent may unfold over years rather than decades.

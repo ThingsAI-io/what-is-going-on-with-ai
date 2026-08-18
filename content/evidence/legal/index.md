@@ -21,3 +21,4 @@ Entries documenting the AI transformation's concrete effects through courts, reg
 - [Encyclopaedia Britannica and Merriam-Webster v. OpenAI: ~100,000 Articles, Collective Registrations, and Hallucination Claims](2026-britannica-merriam-webster-v-openai.md)
 - [Vacker v. ElevenLabs: First Settlement of the AI-Voice Copyright Wave (Confidential)](2025-vacker-v-elevenlabs-settlement.md)
 - [In re OpenAI Copylit MDL: News Plaintiffs Move for Sanctions Over Alleged Discovery Obstruction](2026-nyt-openai-sanctions-motion.md)
+- [Sanders Letter to OpenAI, Anthropic, and Meta: 'Pause AI Development' or Face the Senate](2026-sanders-letter-ai-ceos-pause-development.md)

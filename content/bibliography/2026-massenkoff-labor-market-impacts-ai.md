@@ -125,6 +125,7 @@ The paper is especially useful because it suggests the earliest signal may be hi
 - [AI and the Global Productivity Divide](2025-chaar-ai-global-productivity-divide.md): country-level exposure and adoption constraints that extend the same logic globally.
 - [From Future of Work to Future of Workers: The AI-as-Amplifier Paradox](2026-ehsan-ai-amplifier-paradox.md): hidden erosion inside occupations versus the early labor-market signal measured here.
 - [Generative AI as a Non-Convex Supply Shock](2026-zhang-genai-supply-shock.md): a market-level mechanism that helps explain why exposure may not immediately show up in unemployment.
+- ["We Must Act Now": 200+ Economists and 16 Nobel Laureates Call for Preparation for AI's Economic Transformation](../evidence/declarations/2026-we-must-act-now-economists-ai-statement.md): the profession-wide statement that treats the hiring slowdown this paper measures as the leading edge of 'large-scale job displacement.'
 
 ## Open Questions and Further Exploration
 

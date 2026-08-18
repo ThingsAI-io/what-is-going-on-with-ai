@@ -201,6 +201,7 @@ That makes the source useful for the project's attempt to move from generic AI c
 - [GEMA v. Suno: Munich Court Largely Grants the First Generative-Music Copyright Verdict](../evidence/legal/2026-gema-v-suno-music-verdict.md): a European court's memorization finding operationalizing the counterfactual criterion for music.
 - [Encyclopaedia Britannica and Merriam-Webster v. OpenAI](../evidence/legal/2026-britannica-merriam-webster-v-openai.md): pleaded near-verbatim outputs as evidence that outputs essentially depend on training works.
 - [GCC Adopts AI-Licensing Policy](../evidence/legal/2026-gcc-ai-policy-adoption.md): the essentiality/attribution question answered by commons governance rather than by courts.
+- [Zuckerberg's 'The Future is for Everyone': An AI Policy Manifesto and Its Litigation Blindspot](../evidence/2026-zuckerberg-future-is-for-everyone-ai-manifesto.md): the industry counter-position to creative-ownership rules — a CEO manifesto asserting the "principle that you can learn from anything you can observe" and asking US policy to reduce training-data/distillation restrictions, in direct tension with the settlement-priced and corpus-pricing findings above.
 
 ## AI and Intellectual Property
 
