@@ -70,7 +70,7 @@ On privacy, the court held ChatGPT users' "sincere" privacy interests were one f
 
 This order is the evidentiary engine for the copyright-frontier question this repository tracks. It converts the abstract dispute over whether LLMs were trained on protected works — and whether outputs "reproduce" or "essentially depend on" them — into a concrete, court-ordered evidence base. The framework in [Liang and Lu, "Creative Ownership in the Age of AI"](../../bibliography/2026-liang-creative-ownership-ai.md) proposes a counterfactual infringement criterion (does the output depend on the work?) that needs exactly the kind of data these logs will supply. The order also surfaces the [Durand and Vergne](../../bibliography/2010-durand-vergne-organisation-pirate.md) motif of boundary-testing: OpenAI's own 2019 download of "nearly 100,000 LibGen books" is now a formally documented fact in the record of the central copyright dispute of the AI era.
 
-It complements the [Nikkei evidence entry](../2026-nikkei-hidden-ai-debt-five-tech-giants.md) and the [Microsoft token-budget entry](../2026-microsoft-token-budgets-tokenmaxxing.md) in a different register: those document the capital and operating cost of AI scale; this one documents the legal exposure that scale has created.
+It complements the [Nikkei evidence entry](../finance-of-ai/2026-nikkei-hidden-ai-debt-five-tech-giants.md) and the [Microsoft token-budget entry](../2026-microsoft-token-budgets-tokenmaxxing.md) in a different register: those document the capital and operating cost of AI scale; this one documents the legal exposure that scale has created.
 
 ## Limits
 
