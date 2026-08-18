@@ -27,11 +27,7 @@ Whenever possible, entries in this repository seek to answer:
 
 ## Contributing
 
-This is a working, source-grounded repository. Contributions are welcome via pull request:
-
-- All changes to `main` require a pull request and review approval.
-- Branch creation in this repository is restricted; contributors should fork the repository and open pull requests from their fork.
-- Content entries have strict frontmatter schemas (see `schema/`).
+Currently not accepting contributions, thinking about an operating model for that.
 
 ## License
 
