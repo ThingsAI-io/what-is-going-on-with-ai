@@ -25,10 +25,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
-
-      - name: Install dependencies
-        run: npm ci
 
       - name: Validate content
-        run: npx okf-validate --schemas schema content
+        run: npx --package @thingsai/okf-validator okf-validate --schemas schema content
