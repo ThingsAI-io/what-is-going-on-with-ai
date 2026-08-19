@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Generative AI as a Non-Convex Supply Shock: Market Bifurcation and Welfare Analysis"
 description: "Economic analysis of generative AI as a supply shock causing market bifurcation with welfare implications for different skill levels"
 tags:
@@ -450,3 +451,5 @@ Based on paper's analysis:
 3. Explore calibration section (Appendix B) for parameter sensitivity
 4. Compare to other platform economics work on two-sided markets with congestion
 5. Apply framework to non-creative markets: code, research, analysis
+
+

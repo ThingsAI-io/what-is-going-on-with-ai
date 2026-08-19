@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Leiden Declaration on AI and Mathematics: 3,500+ Mathematicians Set Rules for AI Use in the Discipline"
 description: "The Leiden Declaration on Artificial Intelligence and Mathematics, published June 2, 2026 and endorsed by the International Mathematical Union, is a 16-author, ~11-page community statement recommending that mathematicians disclose automated tool use, retain human responsibility for correctness and authorship, protect the published mathematical commons from unauthorized training use, publish through peer review, and — addressed to policymakers — 'not believe the hype,' regulate the AI industry, and fund public computational infrastructure; it had 3,531 signatories as of August 2026."
 tags:
@@ -106,3 +107,4 @@ It is also direct evidence for the [productivity J-curve](../../frameworks/produ
 - DOI version: [Zenodo record 20302944 (2026-06-02)](https://zenodo.org/records/20302944)
 - IMU endorsement: [IMU A/O CL 8/2026 — "The IMU endorses the Leiden Declaration" (Sylwia Markwardt)](https://www.mathunion.org/fileadmin/documents/2026-06/IMU_AO_CL_8_2026.pdf)
 - Corroboration: [Science/AAAS — "Mathematicians issue warning as AI rapidly gains ground"](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground), [Scientific American — "Mathematicians sign declaration to rein in AI use" (2026-06-02)](https://www.scientificamerican.com/article/mathematicians-sign-declaration-to-rein-in-ai-use/), [NYT — "As A.I. Makes Strides in Mathematics, Mathematicians Urge Caution" (2026-06-02)](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html), [Oxford Mathematical Institute news](https://www.maths.ox.ac.uk/node/81479), [heise online (2026-07-27)](https://www.heise.de/en/news/Mathematicians-call-for-conscious-use-of-AI-Don-t-believe-the-hype-11378215.html)
+

@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Thought and Language"
 description: "Vygotsky's analysis of how speech originates socially, becomes internalized, and forms part of higher mental functions through word meaning and verbal thought."
 tags:
@@ -63,3 +64,5 @@ That makes the book especially useful for understanding how language-heavy AI sy
 ## Relevance to This Repository
 
 This source is valuable because it gives the project a disciplined way to discuss how repeated AI-assisted writing or dialogue might shape internal speech, phrasing, and the organization of thought without turning the claim into crude linguistic determinism.
+
+

@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Quantica's 5,000-Acre 'Big Sky Campus' Near Broadview, Montana: A Private-Equity-Backed 1GW AI Data Center Meets Rancher Resistance"
 description: "EnCap-backed Quantica Infrastructure is building a 5,000-acre, up-to-1GW 'Big Sky Campus' outside Broadview, MT (pop. ~130), a project so large it is the size of ~3,800 football fields; rancher Kassi Solberg's push for transparency became the NYT's (May 26, 2026) story of a rural citizen refusing 'You can't stop this,' while the developer relies on on-site renewable power and deep-aquifer closed-loop cooling."
 tags:
@@ -70,3 +71,4 @@ The mixed institutional response — a state energy-siting bill (HB 799) whose w
 - [Daily Montanan — "Data center dispute says Texas firm tricked Montana company" (Mar 2, 2026)](https://dailymontanan.com/2026/03/02/data-center-dispute-says-texas-firm-tricked-montana-company/) — the FX/EnCap/Quantica lawsuit.
 - [Data Center Dynamics — "EnCap-backed Quantica details plans for 1GW campus in Montana" (May 21, 2026)](https://www.datacenterdynamics.com/en/news/encap-backed-quantica-details-plans-for-1gw-campus-in-montana/) — project specifics.
 - [KTVQ — "Proposed AI data center sparks debate in rural Montana" (Jan 14, 2026)](https://www.ktvq.com/news/local-news/proposed-ai-data-center-sparks-debate-in-rural-montana) — community voice + developer responses.
+

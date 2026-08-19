@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Data Center Backlash Topples Utah Senate President Stuart Adams in the 2026 GOP Primary — a US Political First"
 description: "On June 23, 2026, Utah Senate President Stuart Adams — chair of the Military Installation Development Authority that fast-tracked Kevin O'Leary's Stratos data center — lost his Republican primary to attorney Stephanie Hollist 43%-34%, the first time in modern Utah history a sitting Senate president or House speaker lost a primary; both Box Elder County commissioners who approved the project also lost."
 tags:
@@ -68,3 +69,4 @@ This is the electoral component of the institutional-lag strand of the [producti
 - [KUER — "Data center backlash helps sink Utah Senate President Stuart Adams in primary" (Jun 24, 2026)](https://www.kuer.org/politics-government/2026-06-24/election-2026-utah-primary-stuart-adams-dan-mccay-trevor-lee) — analyst commentary; legislative reshuffle.
 - [Utah News Dispatch — "Unpacking Utah's primary upsets" (Jun 24, 2026)](https://utahnewsdispatch.com/2026/06/24/utah-primary-upsets-stuart-adams-loss-sending-shockwaves-through-the-legislature/) — MIDA ties; commissioner quotes.
 - [Axios SLC — "Data center backlash drove these Utah primary elections" (Jun 25, 2026)](https://www.axios.com/local/salt-lake-city/2026/06/25/data-center-utah-primary-stuart-adams-box-elder-iron-millard) — nuance across Iron County/District 7.
+

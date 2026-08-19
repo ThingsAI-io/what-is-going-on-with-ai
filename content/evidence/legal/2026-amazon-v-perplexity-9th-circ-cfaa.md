@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Amazon v. Perplexity (9th Cir.): The User, Not the AI Agent, 'Accesses' a Website Under the CFAA"
 description: "A Ninth Circuit panel vacated the preliminary injunction Amazon obtained against Perplexity's agentic browser tool, holding that when a user directs the AI agent to act on Amazon.com, it is the user — not Perplexity — who 'accesses' Amazon's computers for purposes of the Computer Fraud and Abuse Act and California's CDAFA analogue, a first circuit-level ruling on agentic AI and anti-hacking liability."
 tags:
@@ -67,3 +68,4 @@ It is a direct illustration of the [productivity J-curve](../../frameworks/produ
 
 - Primary: [Amazon.com Services, LLC v. Perplexity AI, Inc., No. 26-1444, opinion (9th Cir. Aug 4, 2026)](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/04/26-1444.pdf) (mirror: [Courthouse News](https://www.courthousenews.com/wp-content/uploads/2026/08/amazon-v-perplexity-ninth-circuit-opinion.pdf))
 - Corroboration: [Bloomberg Law, "Perplexity's Appeal Win Over Amazon Keeps Hacking Liability Risk" (2026-08-05)](https://news.bloomberglaw.com/ip-law/perplexitys-appeal-win-over-amazon-keeps-hacking-liability-risk); [Cooley alert (2026-08-06)](https://www.cooley.com/news/insight/2026/2026-08-06-ninth-circuit-rules-on-ai-agent-access-to-third-party-websites-under-cfaa); [Eric Goldman, Technology & Marketing Law Blog (2026-08-06)](https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm)
+

@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Zuckerberg's 'The Future is for Everyone': An AI Policy Manifesto and Its Litigation Blindspot"
 description: "Mark Zuckerberg's ~6,500-word open letter (Aug 10, 2026) framed 'personal superintelligence for everyone' as the answer to AI risk, asked the US to relax training-data and distillation restrictions on the grounds that 'you can learn from anything you can observe,' and announced that most of Meta's $145bn 2026 capex goes to data centers — while never naming the copyrighted-training-data litigation (Kadrey v. Meta, LibGen) surrounding its models."
 tags:
@@ -119,3 +120,4 @@ The letter is best treated as evidence of **how the frontier is arguing about it
 - **The essay never discusses the litigation.** One cannot cite the letter for Meta's position on the lawsuits; only for the general principles it advances. The Kadrey/LibGen connection in this entry is context supplied by WIRED, court filings, and the fair-use decision — not by the letter.
 - **"Open source" vs "open weights."** As multiple analysts note, open-weight models are not open source in the strict sense; the letter's "open source ecosystem" rhetoric outruns the technical reality of its releases.
 - **Contemporaneous contradictions.** The board-governance proposal sits uneasily beside founder control and the request for government checkpoints; the "fully private" pledge is unverifiable and sits alongside the essay's own framework of pervasive government-lab collaboration.
+

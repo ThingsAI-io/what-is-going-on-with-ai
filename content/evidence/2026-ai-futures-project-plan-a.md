@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "AI Futures Project's AI 2040: Plan A — A Verified Slowdown Proposal to Delay Superintelligence to 2040"
 description: "On July 9, 2026, the AI Futures Project — the Berkley nonprofit founded by former OpenAI researcher Daniel Kokotajlo — released AI 2040: Plan A, a detailed scenario recommending a US–China deal pairing total AI research transparency with 'mutually assured compute destruction' to delay superintelligence from a 2030 default to 2040, as an alternative to the AI-2027 default path of full-speed recursive self-improvement; the group frames Plan A as a recommendation, not a prediction."
 tags:
@@ -99,3 +100,4 @@ The compute-governance and transparency proposals (inference-only verification, 
 - Launch announcement: [Daniel Kokotajlo et al., "AI 2040: Plan A — The least bad plan we currently know of" — AI Futures Project blog (2026-07-09)](https://blog.aifutures.org/p/ai-2040-plan-a)
 - Corroboration: [Axios — "First look: New warning calls for slowing race to superintelligence" (2026-07-09)](https://www.axios.com/2026/07/09/ai-report-slow-race-superintelligence), [The Washington Post — "He warned AI could lead to extinction. Now he says there's a better path" (2026-07-09)](https://www.washingtonpost.com/technology/2026/07/09/ex-openai-employee-behind-ai-2027-has-new-peppier-prediction/), [Semafor — "A new plan emerges for AI apocalypse avoidance" (2026-07-10)](https://www.semafor.com/article/07/10/2026/a-new-plan-emerges-for-ai-apocalypse-avoidance)
 - Background: [Wikipedia — AI Futures Project](https://en.wikipedia.org/wiki/AI_Futures_Project)
+

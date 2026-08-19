@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Microsoft Tells Engineers: 'Tokenmaxxing Is Not What We Are Optimizing For'"
 description: "Internal memo from Microsoft EVP Jay Parikh (CoreAI, August 2026) introducing division-level AI token budgets and making OpenAI's cheaper GPT-5.6 Sol the default internal coding model, after 404 Media reported engineers were spending hundreds to thousands of dollars a month on tokens; corroborated by CNBC, which independently viewed the same memo."
 tags:
@@ -88,3 +89,4 @@ It refines the [AI productivity paradox evidence](2026-atlassian-state-of-teams-
 - No measured figures are available for the *effect* of the budget caps on engineer behavior or AI-usage levels — only guidance and observed pre-cap spend.
 - Several context numbers (per-token price decline ~98%, tripled enterprise AI bills, Uber's four-month budget exhaustion, Amazon's $1.8M deployment) originate in secondary reporting aggregated by TNW/Times of India and should be treated as press-reported, not primary, figures.
 - Microsoft's public stance remains "AI-first," and the company states the change is about efficiency rather than retreat.
+

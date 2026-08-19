@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Adoption and Impact of Command-Line AI Coding Agents"
 description: "First field study using developer-level telemetry to study the adoption and output effect of agentic command-line AI tools (Claude Code, Copilot CLI) at Microsoft's early-2026 rollout across tens of thousands of engineers: adoption spread through social networks, retention tracked coding activity more than demographics, and adopters merged ~24% more pull requests over a four-month window."
 tags:
@@ -68,3 +69,4 @@ The concrete quantitative results collected in this entry are also available as 
 - The outcomes study conditions on adopters who self-select, and the dose-response is associative, not causal.
 - One company, one early-2026 window, Azure DevOps only — external validity is bounded.
 - The authors are Microsoft employees; Microsoft owns GitHub (maker of Copilot CLI) and sells AI tools, a positionality the paper discloses.
+

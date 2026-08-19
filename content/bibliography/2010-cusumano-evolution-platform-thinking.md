@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Technology strategy and management: The evolution of platform thinking"
 description: "Cusumano's concise synthesis of how platform thinking moved from reusable product architectures to industrywide ecosystems, clarifying the strategic role of complementors, network effects, standards, and two-sided market dynamics."
 tags:
@@ -82,3 +83,5 @@ It also predates the current wave of AI systems, so it does not directly confron
 ## Bottom Line
 
 Cusumano's column is a short but durable contribution because it converts "platform" from a buzzword into a strategic object with identifiable parts: core, complements, standards, network effects, and ecosystem governance. Its lasting value is the clarity of its distinctions. If you want to understand how platforms become dominant, and why openness matters without being sufficient on its own, this article gives a clean starting point.
+
+

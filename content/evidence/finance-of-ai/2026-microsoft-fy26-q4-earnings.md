@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Microsoft FY26 Q4 Earnings: Capital Expenditure and AI Revenue"
 description: "Microsoft's FY26 Q4 (June 30, 2026) results as evidence of the scale of AI infrastructure investment and AI-driven revenue: $115.9B capex for the fiscal year and $59.3B Microsoft Cloud revenue in the quarter."
 tags:
@@ -78,3 +79,4 @@ This evidence directly informs the frameworks for infrastructure buildout, [plat
 - "Capex" is approximated from additions to property and equipment; total committed AI spend (including operating leases, pre-paid data center leases) is higher than the PPE line alone.
 - "AI revenue" is not a disclosed line item; Azure and Microsoft Cloud include non-AI cloud workloads.
 - The press release is a summary; the 10-K contains the reconciled, more granular figures.
+

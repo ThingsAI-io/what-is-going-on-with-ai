@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Reddit v. SerpApi & Perplexity: DMCA §1201 Claims Survive Dismissal for Anti-Bot Circumvention"
 description: "Judge Paul A. Engelmayer (S.D.N.Y.) denied motions to dismiss Reddit's DMCA §1201 claims against SerpApi and Perplexity in Reddit, Inc. v. SerpApi, LLC (1:25-cv-08736-PAE), holding that circumventing Google's SearchGuard anti-bot protections to harvest Reddit content at scale can constitute circumvention of a technological measure — even though the underlying content remains viewable by an authorized individual."
 tags:
@@ -65,3 +66,5 @@ The case also extends the [Durand and Vergne](../../bibliography/2010-durand-ver
 - Primary: [CourtListener docket, Reddit, Inc. v. SerpApi, LLC, 1:25-cv-08736-PAE](https://www.courtlistener.com/docket/71720563/reddit-inc-v-serpapi-llc/)
 - Corroboration: [Bloomberg Law, "Reddit Beats Bids to Drop Anti-Bot Scraping Claims" (2026-07-31)](https://news.bloomberglaw.com/ip-law/reddit-beats-bids-to-drop-anti-bot-scraping-claims)
 - Corroboration: [Law.com / New York Law Journal, "Engelmayer Keeps Reddit DMCA Claims Alive Against SerpApi, Perplexity" (2026-07-31)](https://www.law.com/)
+
+

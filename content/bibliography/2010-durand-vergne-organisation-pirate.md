@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "L'organisation pirate: Essai sur l'évolution du capitalisme"
 description: "Durand and Vergne's argument that pirate organizations are recurring boundary-testing forms that help capitalism evolve by exploiting the relation between the state, territory, and contested norms."
 tags:
@@ -115,3 +116,5 @@ It also risks romanticizing the pirate position if read too quickly. The book sh
 - [Amazon v. Perplexity (9th Cir.): The User, Not the AI Agent, 'Accesses' a Website Under the CFAA](../evidence/legal/2026-amazon-v-perplexity-9th-circ-cfaa.md): the state declining to settle the agentic-AI boundary yet — legal deterrence lagging the adoption curve.
 - [Reddit v. Anthropic: State-Law Scraping Claims Remanded After Surviving Copyright Preemption](../evidence/legal/2026-reddit-v-anthropic-scraping-preemption.md): a platform drawing boundaries around its corpus through contract and property theories.
 - [GEMA v. Suno: Munich Court Largely Grants the First Generative-Music Copyright Verdict](../evidence/legal/2026-gema-v-suno-music-verdict.md): the state resolving the boundary over memorized music against a model operator.
+
+

@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "EU AI Continent Action Plan: Sovereignty as the European Answer to the US-China AI Race"
 description: "The European Commission's 'AI Continent Action Plan' (COM(2025)165, April 9, 2025) declares the EU 'committed and determined to become... a leading AI continent' in a race where 'the race for leadership in AI is far from over'; it mobilizes €200bn (InvestAI), plans up to five AI Gigafactories and a tripling of EU data-center capacity, and frames dependence on non-EU (US/China) infrastructure as an 'economic security risk' — sovereignty-by-codification as the European answer to the US and Chinese strategies of frontier dominance and open-source diffusion."
 tags:
@@ -78,3 +79,4 @@ The plan also quantifies the [J-curve lag](../frameworks/productivity-j-curve.md
 - [COM(2025)165 final — AI Continent Action Plan (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025DC0165) — primary.
 - [Commission press release IP/25/1013: "Commission sets course for Europe's AI leadership with an ambitious AI Continent Action Plan"](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1013) — corroborating (title, figures, dates).
 - [AI Continent Action Plan — factpage (digital-strategy.ec.europa.eu)](https://digital-strategy.ec.europa.eu/en/factpages/ai-continent-action-plan) — corroborating (strategic areas and budgets).
+

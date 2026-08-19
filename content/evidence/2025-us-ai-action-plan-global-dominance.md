@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "US 'Winning the Race': America's AI Action Plan Frames Global AI Dominance as State Policy"
 description: "The July 23, 2025 US AI Action Plan (OSTP) declares that 'the United States is in a race to achieve global dominance in artificial intelligence,' asserts that 'whoever has the largest AI ecosystem will set global AI standards and reap broad economic and military benefits,' gives open-source and open-weight models explicit 'geostrategic value,' and recommends exporting the full American AI stack to allies while countering Chinese influence in international governance bodies — a sovereign claiming the AI frontier territory and arming its domestic open-model pirates."
 tags:
@@ -76,3 +77,4 @@ The plan also completes an inversion the [Zuckerberg manifesto](../evidence/2026
 - [America's AI Action Plan (PDF, OSTP)](https://whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) — primary.
 - [White House release: "White House Unveils America's AI Action Plan"](https://www.whitehouse.gov/releases/2025/07/white-house-unveils-americas-ai-action-plan/) — corroborating (release date, pillars, quotes).
 - [Executive Order 14179 "Removing Barriers to American Leadership in AI" (Federal Register)](https://www.federalregister.gov/documents/full_text/html/2025/01/31/2025-02172.html) — grounding (the "global AI dominance" policy directive).
+

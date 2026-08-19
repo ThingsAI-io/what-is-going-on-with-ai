@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "GEMA v. Suno: Munich Court Largely Grants the First Generative-Music Copyright Verdict"
 description: "The Landgericht München I (42. O 763/25) largely granted GEMA's claims for injunctive relief, information, and damages against Suno over six memorized music works — finding the works were reproduced in Suno's v3.5 and v4 models (memorization), that outputs reproduced their original elements, that text-and-data-mining and US-fair-use defenses failed, and that the collecting society had standing for the US claims under §131 VGG."
 tags:
@@ -70,3 +71,4 @@ The judgment is also a notable counterweight in the cross-atlantic conversation:
 ## Sources Consulted
 
 - Primary: [Bayerisches Staatsministerium der Justiz, LG München I, Pressemitteilung 16/2026 (31.07.2026)](https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php)
+

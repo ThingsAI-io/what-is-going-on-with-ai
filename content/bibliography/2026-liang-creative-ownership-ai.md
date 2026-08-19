@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Creative Ownership in the Age of AI"
 description: "Formal economic theory of creative ownership when AI tools participate in the creative process, analyzing infringement criteria using closure operators and distinguishing light-tail from heavy-tail creative domains."
 tags:
@@ -271,3 +272,5 @@ That makes the source useful for the project's attempt to move from generic AI c
 **Connection to issue #237** (vibe coding / OSS ownership): The counterfactual criterion applies to determining when AI-generated code essentially depends on GPL-licensed training data. If the code could not have been generated without GPL works in the training corpus, it may inherit GPL obligations even if it doesn't reproduce specific code snippets. The light-tail/heavy-tail distinction suggests common programming patterns (interior of code space) lose protection while novel algorithmic approaches (frontier) retain it.
 
 **Connection to issue #223** (AI work intensification): As creative corpora grow and permissible ratios approach one in light-tailed domains, **individual creators' leverage diminishes**—they become dispensable training data. This may intensify competitive pressure and reduce compensation, connecting economic theory of infringement to lived experience of creative labor intensification under AI. The superadditivity result suggests collective organizing becomes more important as individual claims weaken.
+
+

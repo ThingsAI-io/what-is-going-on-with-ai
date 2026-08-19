@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "GCC Adopts AI-Licensing Policy: Declines Legally Significant LLM-Generated Contributions"
 description: "On July 29, 2026, the GNU Compiler Collection's Steering Committee adopted an AI licensing policy declining any 'legally significant' contributions that include or are derived from LLM-generated content, requiring human sign-off and an 'Assisted-by:' tag for the rest, and permitting LLM-generated test cases — a formal institutional answer, from core free-software infrastructure, to the question of who (and what) may contribute code."
 tags:
@@ -65,3 +66,4 @@ The policy also operationalizes the [Liang and Lu](../../bibliography/2026-liang
 
 - Primary: [GCC AI Policy](https://gcc.gnu.org/ai-policy.html)
 - Announcement: [David Edelsohn on the GCC mailing list (2026-07-29)](https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html)
+

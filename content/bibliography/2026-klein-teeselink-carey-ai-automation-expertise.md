@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "AI, Automation, and Expertise"
 description: "Large-scale cross-country empirical test of the expertise framework: AI adoption to ChatGPT's release raises wages where exposed tasks are low-expertise and reduces job postings by 6.2% per standard deviation of AI exposure, across 39 countries."
 tags:
@@ -67,3 +68,4 @@ The quantitative results collected in this entry are also available as a standal
 - The post-ChatGPT window (2.5 years) may be too short to observe full supply-side adjustment.
 - If AI lowers the cost of learning, expertise-threshold constraints could bind less tightly, attenuating predicted wage effects.
 - The cross-country heterogeneity analysis is exploratory given the limited number of country observations.
+

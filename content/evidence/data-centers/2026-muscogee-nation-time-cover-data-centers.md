@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Two Muscogee Women Land on the Cover of TIME ('The People vs. AI') After Stopping a Hyperscale Data Center on Tribal Land"
 description: "Jordan Harmon and Mackenzie Roberts — citizens of the Muscogee (Creek) Nation — organized town halls that helped defeat a proposed hyperscale data center on the 5,500-acre food-sovereignty ranch the Nation bought in 2021; the Muscogee National Council rejected the project in November 2025, and TIME's March 9, 2026 cover story on the American data center rebellion featured the two women."
 tags:
@@ -73,3 +74,4 @@ This entry is the indigenous-sovereignty node of the broader backlash the reposi
 - [Native News Online — "Two Muscogee Women Featured on Cover of TIME" (Mar 11, 2026)](https://nativenewsonline.net/currents/two-muscogee-women-featured-on-cover-of-time-for-leadership-on-ai-data-center-fight/) — verification of cover, project, and rejection.
 - [Crosswinds News — "Data center concerns on tribal land in Oklahoma draw national attention" (Apr 18, 2026)](https://www.crosswindsnews.net/data-center-concerns-on-tribal-land-in-oklahoma-draw-national-attention/) — interviews with Roberts; Mvskoke Tech Park; Seminole moratorium.
 - [KOSU/KGOU — "As data centers eye Oklahoma, tribes weigh the costs" (Jun 25, 2026)](https://www.kosu.org/show/stateimpact-oklahoma/2026-06-25/as-data-centers-eye-oklahoma-tribes-weigh-the-costs) — wider tribal landscape; Project Spring; Cherokee task force.
+

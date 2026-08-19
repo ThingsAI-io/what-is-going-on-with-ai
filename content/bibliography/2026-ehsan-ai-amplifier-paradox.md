@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "From Future of Work to Future of Workers: The AI-as-Amplifier Paradox"
 description: "Year-long longitudinal study in radiation oncology revealing how AI simultaneously amplifies organizational efficiency and erodes expert judgment, professional identity, and workforce resilience through a three-stage expertise erosion cascade"
 tags:
@@ -244,3 +245,5 @@ Ericsson's foundational work on deliberate practice explains the mechanism behin
 ## Bibliography: Agentic Economy (Rothschild 2026)
 
 Rothschild envisions economic architectures where AI agents transact and create value. Ehsan et al. show what happens to the humans inside those architectures. The Amplifier Paradox suggests that agentic economies may produce economic growth while simultaneously eroding the human expertise needed to govern, debug, and evolve those economies—a systemic fragility that economic models should account for.
+
+

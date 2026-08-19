@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "China's AI+ Initiative and Global AI Governance Action Plan: State-Directed Open-Source Diffusion as Strategy"
 description: "The State Council's August 2025 'AI+' Initiative (Guofa [2025] No. 11) commits China to a ten-year whole-of-nation AI adoption program (70% smart-terminal/agent penetration by 2027, 90% by 2030, full 'intelligent economy' by 2035), deems AI an 'international public good,' promotes open-source AI ecosystems as state strategy, and proposes to 'refine data property rights and copyright systems adapted to AI development' — while the Global AI Governance Action Plan (WAIC, July 2025) positions China as the open-source champion for the Global South against an US-led proprietary 'exclusive game.'"
 tags:
@@ -74,3 +75,4 @@ Read against its competitors, the AI+ Initiative is the clearest expression of *
 - [CSET translation: "Opinions of the State Council on Deepening the Implementation of the 'Artificial Intelligence+' Initiative" (Georgetown CSET, English)](https://cset.georgetown.edu/publication/china-ai-plus-opinions-2025/) — primary-adjacent source for the English repo.
 - [Global AI Governance Action Plan (MFA, July 26, 2025)](https://www.fmprc.gov.cn/eng/zy/gb/202507/t20250729_11679232.html) — companion primary.
 - [USCC: "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance" (Mar 2026)](https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf) — state-adversary analysis for corroboration and risk framing.
+

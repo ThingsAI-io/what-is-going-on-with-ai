@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Bartz v. Anthropic: Court Grants Final Approval to $1.5 Billion Authors' Copyright Settlement"
 description: "Judge Araceli Martínez-Olguín (N.D. Cal.) granted final approval to the $1.5 billion non-reversionary settlement fund resolving Bartz v. Anthropic PBC, the authors' class action over Anthropic's downloading of copyrighted books from LibGen and PiLiMi for model training; the court awarded roughly $101.6 million in attorneys' fees (about 6.8% of the fund) and approved an estimated per-work payout of about $3,000 — four times the statutory minimum."
 tags:
@@ -84,3 +85,5 @@ The settlement's structure — per-work payments to authors, non-reversionary fu
 - Docket: [Bartz v. Anthropic PBC, 4:24-cv-05417 (CourtListener)](https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/)
 - Corroboration: [Bloomberg Law, "Anthropic, Authors' $1.5 Billion Deal Earns Final Approval" (2026-07-20)](https://news.bloomberglaw.com/ip-law/anthropic-authors-1-5-billion-deal-receives-final-approval)
 - Case page: [N.D. Cal., Bartz et al v. Anthropic PBC](https://cand.uscourts.gov/cases-e-filing/cases/324-cv-05417-amo/bartz-et-al-v-anthropic-pbc)
+
+

@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Regenerative Software - The Phoenix Architecture"
 description: "Manifesto proposing 'The Phoenix Architecture' — treating code as disposable and regenerable rather than a durable asset, arguing generative AI fundamentally inverts the economics of software development."
 tags:
@@ -263,3 +264,5 @@ Fowler, Chad. "Regenerative Software - The Phoenix Architecture." *The Phoenix A
 *Document type: Manifesto/philosophy introducing new blog series*  
 *Core thesis: Most durable AI-era systems built from code meant to die*  
 *Key inversion: Code becomes consumable cost, not capital asset*
+
+

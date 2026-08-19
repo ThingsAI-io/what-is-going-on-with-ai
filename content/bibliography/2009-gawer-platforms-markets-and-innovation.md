@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Platforms, Markets and Innovation"
 description: "Gawer's edited volume consolidates platform thinking into a usable strategic lens, distinguishing internal, supply chain, and industry platforms and showing how platform design, governance, and ecosystem coordination evolve as technologies scale across firms and markets."
 tags:
@@ -111,3 +112,5 @@ Still, the conceptual frame is durable because it explains the structural relati
 ## Bottom Line
 
 The lasting value of *Platforms, Markets and Innovation* is that it makes platform thinking usable. It turns a diffuse term into a strategic lens with clear levels, clear evolution paths, and clear governance problems. If Cusumano's article helps define platform leadership, Gawer's book broadens the frame: it shows how platforms emerge, move across organizational boundaries, and become industry structures. For that reason, the book remains one of the cleanest conceptual foundations for thinking about platforms in digital markets and AI systems.
+
+

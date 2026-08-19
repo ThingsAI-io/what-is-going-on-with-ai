@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Beyond Interaction: A Short Introduction to Mediation Theory"
 description: "Verbeek's short introduction to mediation theory, arguing that technologies mediate human-world relations, shape practices and experiences, and should be designed with those effects in mind."
 tags:
@@ -67,3 +68,5 @@ The point is not that technology determines everything. The point is that design
 ## Relevance to This Repository
 
 This source is important for AI because interfaces are not just delivery mechanisms. They shape habits, choices, and the texture of interaction. Verbeek provides a careful vocabulary for that mediating role without collapsing into simplistic determinism.
+
+

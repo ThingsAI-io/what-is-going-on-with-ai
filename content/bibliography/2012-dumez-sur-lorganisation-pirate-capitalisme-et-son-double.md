@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Sur l'organisation pirate. Le capitalisme et son double"
 description: "Hervé Dumez's review of Durand and Vergne's book, highlighting the tension between the book's strong intuition and its tendency to diffuse its argument across too many examples and references."
 tags:
@@ -92,3 +93,5 @@ That makes it valuable, but incomplete. The review helps with critique more than
 - [Court of Rome Annuls the €15 Million GDPR Fine the Garante Imposed on OpenAI](../evidence/legal/2026-rome-tribunal-annuls-garante-openai-fine.md): enforcement at the boundary of the legal system, where institutional answers arrive slowly.
 - [Ziff Davis v. OpenAI: robots.txt Is Not a DMCA §1201 Technological Measure](../evidence/legal/2025-ziff-davis-v-openai-robots-txt-dmca.md): Dumez's warning about over-extended analogies applies to treating every scraping signal as a legal fence.
 - [GEMA v. OpenAI: Munich Court Finds ChatGPT Reproduced German Song Lyrics](../evidence/legal/2025-gema-v-openai-lyrics-memorization.md): the pirate-organization thesis gaining concrete legal form as courts adjudicate model reproduction.
+
+

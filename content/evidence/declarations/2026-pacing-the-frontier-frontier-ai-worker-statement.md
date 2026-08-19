@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "'Pacing the Frontier': 1,376 Frontier AI Lab Employees Ask the US Government to Build Tools to Slow Automated AI Development"
 description: "In late July 2026, 1,376 employees of frontier AI companies (OpenAI, Anthropic, Google DeepMind, Meta, Thinking Machines, SSI) signed a statement asking the US government to 'support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development' — an explicit request by the frontier workforce itself for an externally coordinated slowdown mechanism, grounded in the risk that 'capability development rapidly accelerates beyond our ability to understand or control the resulting systems'."
 tags:
@@ -91,3 +92,4 @@ It also matters for the labor thread: these are knowledgeable insiders betting t
 - [Fortune — More than 1,200 AI workers are asking for Washington's help to build an AI slowdown plan (2026-07-29)](https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/)
 - [The Hindu (Explained) — What 'Pacing the Frontier' reveals about the U.S. AI industry (2026-08-01)](https://www.thehindu.com/sci-tech/technology/what-pacing-the-frontier-reveals-about-the-us-ai-industry-explained/article71293538.ece)
 - [Internet Archive snapshot of pacingthefrontier.com (2026-07-28; 1,134 signatories)](https://web.archive.org/web/20260728223336id_/https:/www.pacingthefrontier.com/)
+

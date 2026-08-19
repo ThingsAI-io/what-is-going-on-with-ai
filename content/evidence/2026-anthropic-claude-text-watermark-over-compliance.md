@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Anthropic Watermarks All Claude Text Worldwide: EU Act Compliance, the Brussels Effect, and a Provider-Controlled Output Gate"
 description: "In August 2026 Anthropic began invisibly watermarking every text output from new Claude models, worldwide, implementing the EU AI Act's Article 50(2) transparency Code with the Google DeepMind SynthID-Text approach — going beyond the law (which exempts tool-level 'assistive' editing like grammar fixes) and beyond EU territory, prompting critics to call it a provider-controlled gate ('judge, jury, and prosecutor' — Bill Gurley), a 'Brussels Effect' applied one token at a time (Neil Chilson), and an arms race already 'lost by default' (Daniel Tenner) as users voice both rage and support."
 tags:
@@ -83,3 +84,4 @@ The counterpoint to the enclosure reading is worth setting down plainly: detecti
 - [Business Insider — "Anthropic's Claude watermark raises concerns from tech community" (Aug 13, 2026)](https://www.businessinsider.com/anthropic-claude-text-watermark-concerns-tech-community-answers-2026-8) — corroborating (Gurley, cancellations).
 - [Brussels Signal — "Anthropic watermarks Claude text worldwide to meet EU AI Act rules" (Aug 12, 2026)](https://brusselssignal.eu/2026/08/storm-of-critique-after-anthropic-watermarks-claude-text-worldwide-to-meet-eu-ai-act-rules/) — corroborating (Brussels Effect, expert quotes).
 - [The Verge — "Anthropic explains how Claude's invisible text watermarks will work" (Aug 17, 2026)](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) — corroborating (SynthID-Text, industry parallelism).
+

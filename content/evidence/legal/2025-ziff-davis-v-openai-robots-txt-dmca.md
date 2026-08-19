@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Ziff Davis v. OpenAI: robots.txt Is Not a DMCA §1201 Technological Measure"
 description: "In the consolidated In re OpenAI copyright MDL, Judge Sidney H. Stein held that a robots.txt exclusion directive is a precatory signal, not a 'technological measure' under DMCA §1201, dismissing Ziff Davis's anti-circumvention claim over OpenAI's automated crawling of its web content."
 tags:
@@ -65,3 +66,5 @@ It also qualifies the [Liang and Lu](../../bibliography/2026-liang-creative-owne
 - Primary: [CourtListener docket, In re OpenAI, Inc. Copyright Infringement Litigation, 25-md-3143](https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/)
 - Analysis: [Eric Goldman, Technology & Marketing Law Blog, "Ziff Davis v. OpenAI — robots.txt Is Not a Technological Measure" (Dec 2025)](https://blog.ericgoldman.org/)
 - Analysis: [LexSummary on 2025 WL 3635559](https://www.lexsummary.com/)
+
+

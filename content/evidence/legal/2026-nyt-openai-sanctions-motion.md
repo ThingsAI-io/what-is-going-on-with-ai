@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "In re OpenAI Copylit MDL: News Plaintiffs Move for Sanctions Over Alleged Discovery Obstruction"
 description: "On July 9, 2026, The New York Times and about 17 other news organizations moved for sanctions against OpenAI in the consolidated OpenAI copyright MDL, alleging a 'deliberate and systematic effort to obstruct discovery' over about two years — that OpenAI concealed tools for searching its training data and output logs, that its 20-million-log sample was 'unusable' amid mass redactions, and that billions of ChatGPT conversations were deleted; the court has not yet ruled."
 tags:
@@ -68,3 +69,4 @@ For the [Durand and Vergne](../../bibliography/2010-durand-vergne-organisation-p
 
 - Primary (motion in the MDL): [In re OpenAI, Inc. Copyright Infringement Litigation, 25-md-3143, docket (CourtListener)](https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/)
 - Corroboration: [Bloomberg Law, on the sanctions motion (2026-07)](https://news.bloomberglaw.com/ip-law/openai-experienced-sanctions-motion-nyt-billion-conversations-deleted); [Reuters on declared deletions](https://www.reuters.com/legal/litigation/); [Law360 (2026-07)](https://www.law360.com/)
+

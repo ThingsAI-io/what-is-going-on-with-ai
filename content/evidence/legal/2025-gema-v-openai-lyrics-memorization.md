@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "GEMA v. OpenAI: Munich Court Finds ChatGPT Reproduced German Song Lyrics"
 description: "The Landgericht München I (42. Zivilkammer) largely granted GEMA's claims for injunctive relief, information, and damages against OpenAI group companies, finding ChatGPT memorized and reproduced nine German song lyrics 'originalgetreu' (in large parts faithfully) — including 'Atemlos durch die Nacht' — and rejecting OpenAI's text-and-data-mining defense."
 tags:
@@ -63,3 +64,5 @@ It also reframes the [productivity J-curve](../../frameworks/productivity-j-curv
 
 - Primary: [Bavarian Ministry of Justice / LG München I press release (Nov 2025)](https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2025/11.php)
 - Corroboration: [Reuters, "German court says OpenAI's ChatGPT reproduced song lyrics" (2025-11-11)](https://www.reuters.com/technology/artificial-intelligence/german-court-says-chatgpt-reproduced-song-lyrics-2025-11-11/)
+
+

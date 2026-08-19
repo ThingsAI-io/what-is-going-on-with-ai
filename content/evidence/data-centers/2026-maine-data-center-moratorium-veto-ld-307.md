@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Maine Is the First State to Pass a Data Center Moratorium; Governor Mills Vetoes It Over the Town of Jay Exemption (LD 307, Apr 2026)"
 description: "Maine's LD 307 authorized a temporary moratorium on new data centers ≥20MW until Nov 1, 2027 and a 13-member Data Center Coordination Council; it passed with bipartisan support as the first statewide-in-scope moratorium report, but Gov. Janet Mills vetoed it on Apr 24, 2026 because it lacked an exemption for the negotiated Town of Jay project (~450-1,000 jobs), promising instead to form a commission by executive order; separately she signed LD 713, stripping data centers from Maine's business equipment tax incentive."
 tags:
@@ -65,3 +66,4 @@ The veto keeps the episode from becoming the first *enacted* statewide moratoriu
 - [Mills veto message for LD 307 (Apr 24, 2026)](https://www.maine.gov/governor/mills/official_documents/veto_messages/2026-04-ld-307-act-establish-maine-data-center-coordination) — primary.
 - [Maine Legislature — LD 307 bill page](https://legislature.maine.gov/bills/getBill.asp?bill=LD%20307) — statutory text and history.
 - [Maine Public — coverage of the moratorium veto and LD 713 signing (Apr 2026)](https://www.mainepublic.org/) — secondary for LD 713 and committee actions.
+

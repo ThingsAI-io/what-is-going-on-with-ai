@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Erin Brockovich's AI Data Center Map: 9,030 Community Reports of Harm Across All 50 States"
 description: "Brockovich's public map (launched Apr 27, 2026, updated through Aug 16, 2026) logged 9,030 community reports across 50 states and DC and 2,378 zip codes, with top concern categories water (41.2% of submissions), electricity/grid (22.2%), health (18.1%), and wildlife/land (14.6%); the map's creator frames it as a record of community-reported concerns rather than proof of harm — 'this is not about attacking AI.'"
 tags:
@@ -83,3 +84,4 @@ The map's three most common categories — water (41.2%), grid (22.2%), health (
 - [Brockovich AI Data Center Map — Community Statistics](https://www.brockovichdatacenter.com/community-stats.html) — primary series (accessed Aug 18, 2026; reflects updates through Aug 16, 2026).
 - [Brockovich AI Data Center Map — home](https://www.brockovichdatacenter.com/) — map, concern taxonomy, and "not a registry" disclaimer.
 - [The Brockovich Report — "The New Pollution Is Data, and It's Coming to a Town Near You" (Apr 28, 2026)](https://www.thebrockovichreport.com/p/the-new-pollution-is-data-and-its) — launch essay co-authored with Suzanne Boothby.
+

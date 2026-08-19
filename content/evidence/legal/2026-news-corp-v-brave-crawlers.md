@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "News Corp v. Brave: Publishers Allege Masked Crawling and AI Snippet Sales"
 description: "In the Northern District of California (3:26-cv-04126), Dow Jones and NYP Holdings counterclaimed against Brave on July 21, 2026, alleging the browser company masks its crawlers to evade publishers' detection, bundles ~250-word 'extra-long' snippets (about five times the traditional excerpt) and 'summarizer' versions, and sells verbatim or near-verbatim content to AI companies through its 'Data for AI API' — while claiming the practice 'far more extensive' than fair use transforms."
 tags:
@@ -66,3 +67,5 @@ It also sharpens the fair-use question the repo tracks. Where [Richner et al.](2
 
 - Primary: [Reply and counterclaims, News Corp v. Brave, 3:26-cv-04126 (PDF via Copyright Alliance)](https://copyrightalliance.org/wp-content/uploads/2026/07/brave-vs-news-corp-reply-and-counterclaims.pdf)
 - Corroboration: [Bloomberg Law, "News Corp accuses Brave of selling articles to AI companies" (2026-07-21)](https://news.bloomberglaw.com/)
+
+

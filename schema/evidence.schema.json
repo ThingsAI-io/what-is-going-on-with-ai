@@ -1,9 +1,9 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://okf-starter-kit.local/schema/evidence.schema.json",
+  "$id": "schema/evidence.schema.json",
   "allOf": [
     {
-      "$ref": "https://okf-starter-kit.local/schema/content.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ThingsAI-io/okf-validator/main/schemas/okf/v0.2/schema.json"
     },
     {
       "type": "object",
@@ -21,7 +21,7 @@
               "minLength": 1
             },
             "accessed": {
-              "$ref": "https://okf-starter-kit.local/schema/content.schema.json#/$defs/isoDate"
+              "$ref": "https://raw.githubusercontent.com/ThingsAI-io/okf-validator/main/schemas/okf/v0.2/schema.json#/$defs/isoDate"
             }
           },
           "additionalProperties": true

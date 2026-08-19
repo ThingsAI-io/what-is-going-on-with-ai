@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Marx va avoir raison (IA et lutte des classes)"
 description: "Essai politique de Frédéric Lordon analysant comment l'IA instaure une nouvelle dialectique marxiste en rendant dispensable la 'bourgeoisie créative' — support symbolique du capitalisme — et les implications politiques de cette rupture"
 tags:
@@ -170,3 +171,5 @@ That makes the piece useful for the project's model layer: it shows how labor di
 > "Vous y avez cru ; vous vous êtes fait rouler ; ce système qui vous a fait marcher est impitoyable, nous savions que d'une manière ou d'une autre il vous viendrait dessus, voilà c'est fait ; abandonnez toute espérance – ou plutôt changez-en !"
 >
 > — Frédéric Lordon, conclusion de l'article
+
+

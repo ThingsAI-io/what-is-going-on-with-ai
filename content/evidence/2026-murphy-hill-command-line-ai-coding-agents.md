@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Command-Line AI Agents at Microsoft: +24% Pull-Request Lift, Adoption via Peers"
 description: "Telemetry-based field study of tens of thousands of Microsoft engineers over a four-month early-2026 rollout of Claude Code and Copilot CLI: adopters merged 24% more pull requests (95% CI +14.5% to +33.7%), the lift persisted rather than fading, dose-response reached +50% at 5+ days of weekly use, and first use spread through peer and manager networks."
 tags:
@@ -97,3 +98,4 @@ This is the micro, shown-mechanism counterpart to the survey-level and macro evi
 - Dose-response is associative within-person, not causal; heavier-use weeks may carry a lighter task mix.
 - Single company, single early-2026 window, Azure DevOps measurement only; external validity is bounded.
 - Positionality: authors are Microsoft employees; Microsoft owns GitHub, maker of Copilot CLI, and sells AI tools.
+

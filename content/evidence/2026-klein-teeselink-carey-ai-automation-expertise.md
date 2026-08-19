@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "AI Exposure and Labor Demand Across 39 Countries: Klein Teeselink and Carey (2026)"
 description: "Quantitative evidence from a cross-country difference-in-differences study of job postings and advertised salaries around the November 2022 release of ChatGPT, reporting a 6.2% decline in job postings per standard deviation of AI exposure and expertise-dependent wage effects."
 tags:
@@ -92,3 +93,4 @@ This supports the thesis that the AI transformation is not homogeneous across oc
 - Exposure and expertise measures capture predicted automation potential, not realized automation; realized effects are likely to grow.
 - Wage data are partly imputed by Revelio Labs, which attenuates salary estimates.
 - The cross-country heterogeneity correlations are exploratory with limited statistical power.
+

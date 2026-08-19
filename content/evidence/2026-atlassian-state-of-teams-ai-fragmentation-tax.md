@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "AI, Speed, and Stalled ROI: Atlassian State of Teams 2026"
 description: "Atlassian Teamwork Lab's 12,035-worker, 173-executive survey finding that 89% of executives say AI increases speed of work while only 6% can point to organization-wide AI ROI, with the gap quantified as a $161B annual 'fragmentation tax' on the Fortune 500."
 tags:
@@ -73,3 +74,4 @@ This is the enterprise-software analog of the [productivity J-curve](../framewor
 
 - Primary: [Atlassian — The State of Teams 2026](https://www.atlassian.com/blog/state-of-teams-2026)
 - Corroborating: Atlassian blog posts per AI at Work (the AI efficiency paradox, the speed paradox, team-level ROI); [VentureBeat](https://venturebeat.com/orchestration/atlassian-research-shows-organizations-should-approach-ai-at-the-team-level-not-the-individual-level-to-achieve-true-roi) (2026-07-21); Diginomica (2026-05-28).
+

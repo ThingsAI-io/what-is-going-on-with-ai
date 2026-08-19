@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Generative AI at Work"
 description: "Landmark field study measuring the causal effect of a generative AI tool on 5,172 customer-support workers, finding 15% productivity gains concentrated among lower-skill employees and evidence of durable AI-facilitated learning."
 tags:
@@ -157,3 +158,5 @@ The paper takes seriously the quality of work experience as a dependent variable
 > "In our data, top workers increase their adherence to AI recommendations, even though those recommendations marginally decrease the quality of their conversations. Yet with fewer original contributions from the most skilled workers, future iterations of the AI model may be less effective in solving new problems."
 >
 > — Page 893
+
+

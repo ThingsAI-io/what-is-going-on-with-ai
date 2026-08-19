@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "The Extended Mind"
 description: "Clark and Chalmers' argument that, when external tools are reliably coupled to a person and do cognitive work in the right way, cognition can extend beyond the head into the world."
 tags:
@@ -68,3 +69,5 @@ That is a narrow and careful claim. It does not make every tool part of the mind
 ## Relevance to This Repository
 
 This source matters because it helps explain why AI assistants can feel like a personal extension without implying that they are literally identical to the self. It gives the repository a precise way to talk about coupling, habitual use, and the cognitive role of external systems.
+
+

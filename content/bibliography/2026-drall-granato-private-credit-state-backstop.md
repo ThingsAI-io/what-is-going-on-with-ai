@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers"
 description: "Law review article by Andrew Granato (UT Austin) and Pranjal Drall (Yale) showing how private equity converts life insurers into vehicles for opaque private credit, then socializes the downside through state guaranty funds whose assessments are largely offset by state premium-tax credits — a taxpayer backstop for the credit cycle that now funds AI data centers."
 tags:
@@ -68,3 +69,5 @@ The article connects this to private credit's "submerged legal infrastructure": 
 - The paper is agnostic about AI specifically — it analyzes the PE-life-insurer-private-credit model generally. The AI connection is drawn by Dayen's journalism, which maps the mechanism onto data-center lending and the 2026 AI-market rout.
 - State-by-state assessment, coverage, and tax-credit design varies substantially; national figures aggregate heterogeneous rules.
 - The empirical magnitudes (staff cuts, private-placement increases, yield premia) come from unpublished manuscripts and working papers cited in the article, not from new data the authors compute.
+
+

@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "The Pro-Human AI Declaration: A Broad Civil-Society Coalition Calls for Prohibiting Superintelligence Until Proven Safe"
 description: "On March 4, 2026, the Future of Life Institute released the Pro-Human AI Declaration, a consensus document written across multiple in-person workshops and ratified in New Orleans by a coalition spanning labor unions (AFL-CIO Tech Institute, American Federation of Teachers), faith groups (Congress of Christian Leaders, G20 Interfaith Forum), SAG-AFTRA, the progressive and conservative media wings (Steve Bannon, Glenn Beck, Susan Rice), and AI pioneers — calling for a prohibition on superintelligence development 'until there is broad scientific consensus that it can be done safely and controllably, and there is strong public buy-in.'"
 tags:
@@ -94,3 +95,4 @@ It also connects to the **labor** theme of the repo: the AFL-CIO and AFT endorse
 - [TechCrunch — A roadmap for AI, if anyone will listen (2026-03-08)](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)
 - [FLI — 'This is What it Means to be Pro-Human' Declares Broad Coalition in Statement of Shared Principles on AI (2026-03-04)](https://futureoflife.org/press-release/statement-of-shared-principles-on-ai/)
 - [FLI — Prominent Scientists, Faith Leaders, Policymakers and Artists Call for a Prohibition on Superintelligence (2026-03-27)](https://futureoflife.org/press-release/prominent-scientists-faith-leaders-policymakers-and-artists-call-for-a-prohibition-on-superintelligence/)
+

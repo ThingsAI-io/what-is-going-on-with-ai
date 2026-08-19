@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Data Center Watch: $64 Billion in US Data Center Capacity Blocked or Delayed by Organized Local Opposition"
 description: "Data Center Watch's first report (Aug 2026) tallies $64B of US data center projects blocked ($18B) or delayed ($46B) in the past two years by organized activist pressure — at least 142 local groups across 24 states, with Virginia the focal point (42 groups) — and documents 46 moratoria/ordinances across at least 13 states and 23 cities/areas, describing the backlash as 'primarily driven' by these groups."
 tags:
@@ -67,3 +68,4 @@ The $64B figure sits inside the same reality the [productivity J-curve](../../fr
 
 - [Data Center Watch — Report (first edition, Aug 2026)](https://www.datacenterwatch.org/report) — primary source for all figures.
 - [NBC News — "Reining in data centers sparks rare bipartisanship in statehouses" (Mar 14, 2026)](https://www.nbcnews.com/politics/politics-news/reining-data-centers-sparks-rare-bipartisanship-statehouses-rcna262990) — corroborating coverage citing the project-tracking data (≈$98B blocked/stalled in one 3-month window).
+

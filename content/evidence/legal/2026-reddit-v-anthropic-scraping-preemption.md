@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Reddit v. Anthropic: State-Law Scraping Claims Remanded After Surviving Copyright Preemption"
 description: "Judge Trina L. Thompson (N.D. Cal.) remanded Reddit's breach-of-contract, unjust-enrichment, trespass-to-chattels, tortious-interference, and UCL §17200 claims against Anthropic to San Francisco Superior Court (CGC-25-625892), holding the state-law theories are not completely preempted by copyright — keeping the scraping dispute over Reddit content used in Anthropic model training in state court."
 tags:
@@ -62,3 +63,4 @@ The case is a concrete instance of the [Durand and Vergne](../../bibliography/20
 
 - Primary: [CourtListener docket, Reddit, Inc. v. Anthropic PBC, 3:25-cv-05643 (order doc 60, 3/28/2026)](https://www.courtlistener.com/docket/70704683/reddit-inc-v-anthropic-pbc/)
 - Corroboration: [Bloomberg Law on the remand (2026-03-31)](https://news.bloomberglaw.com/); [fiund.com AI lawsuits tracker](https://www.fiund.com/)
+

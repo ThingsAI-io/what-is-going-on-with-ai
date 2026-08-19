@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Labor Market Impacts of AI: A New Measure and Early Evidence"
 description: "Anthropic research report introducing 'observed exposure' — a new occupational AI displacement metric combining theoretical LLM capability with real-world Claude usage data — and finding no systematic rise in unemployment for exposed workers, with tentative evidence of slowed hiring for younger workers."
 tags:
@@ -160,3 +161,5 @@ The paper is especially useful because it suggests the earliest signal may be hi
 > "By laying this groundwork now, before meaningful effects have emerged, we hope future findings will more reliably identify economic disruption than post-hoc analyses."
 >
 > — Introduction
+
+

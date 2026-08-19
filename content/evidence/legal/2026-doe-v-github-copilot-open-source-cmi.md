@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Doe v. GitHub (Copilot): Ninth Circuit Weighs Whether §1202 Requires Identical Copies"
 description: "In the Copilot class action (Doe et al. v. GitHub, Inc., et al., 4:22-cv-06823-JST), the Ninth Circuit heard oral argument on February 11, 2026 over whether DMCA §1202(b) liability for stripped copyright management information requires 'identical copies' of source code — a question that will decide whether GitHub, OpenAI, and Microsoft can be liable for Copilot reproducing public-repository code without attribution, notices, or licenses."
 tags:
@@ -63,3 +64,5 @@ For the repo's [Liang and Lu](../../bibliography/2026-liang-creative-ownership-a
 - Primary: [CourtListener docket, Doe et al. v. GitHub, Inc., et al., 4:22-cv-06823-JST](https://www.courtlistener.com/docket/69495342/doe-et-al-v-github-inc-et-al/)
 - Case summary: [fiund.com, Copilot class action summary](https://www.fiund.com/)
 - Analysis: [Shuji Sado, analysis of Doe v. GitHub §1202 question (2025-11-27)](https://www.sado.ooo/)
+
+

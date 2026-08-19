@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Getty Images v. Stability AI: UK High Court Rules on AI Training, Output, and Infringing Articles"
 description: "In Getty Images (US) Inc & Ors v Stability AI Ltd [2025] EWHC 2863 (Ch), Mrs Justice Joanna Smith handed down the first UK High Court judgment on generative AI training and output, holding Stability liable for trade mark infringement and passing off in limited instances while dismissing the copyright claims — the training-and-development and output claims were abandoned, and the secondary-infringement 'infringing article' claim failed because model weights never stored copies of the copyright works."
 tags:
@@ -93,3 +94,5 @@ The case is also a concrete instance of the [Durand and Vergne](../../bibliograp
 - Mirror: [BAILII, Getty Images (US) Inc & Ors v Stability AI Ltd [2025] EWHC 2863 (Ch)](http://mansfield.bailii.org/ew/cases/EWHC/Ch/2025/2863.pdf)
 - Case report: [ICLR, [2025] WLR(D) 571](https://www.iclr.co.uk/document/2025037616/casereport_f8d8a72d-e02c-48f1-9245-337de492a1f3/html)
 - Analysis: [zoomLaw summary of disposition](https://zoomlaw.co.uk/2025EWHC2863Ch.html)
+
+

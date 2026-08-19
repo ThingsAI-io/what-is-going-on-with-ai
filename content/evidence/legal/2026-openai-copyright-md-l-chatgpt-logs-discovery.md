@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "20 Million ChatGPT Logs: Judge Stein Affirms Discovery Order in In re OpenAI Copyright Litigation"
 description: "Judge Sidney Stein (SDNY) affirmed magistrate orders compelling OpenAI to produce its entire 20 million de-identified ChatGPT conversation-log sample to news and class plaintiffs in the consolidated OpenAI copyright MDL — rejecting OpenAI's proposal to substitute a narrower search-term subset to protect user privacy."
 tags:
@@ -85,3 +86,5 @@ It complements the [Nikkei evidence entry](../finance-of-ai/2026-nikkei-hidden-a
 - Corroboration: [Bloomberg Law, "OpenAI Must Turn Over 20 Million ChatGPT Logs, Judge Affirms" (2026-01-05)](https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms)
 - Subsequent orders: [Magistrate Wang order, Feb 6, 2026 (CourtListener ECF No. 1230)](https://www.courtlistener.com/docket/68117049/1230/the-new-york-times-company-v-microsoft-corporation/); [Magistrate Wang status order, Mar 9, 2026 (CourtListener)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1418.0_1.pdf)
 - Docket: [In re OpenAI Copyright MDL, 25-md-03143 (CourtListener)](https://www.courtlistener.com/docket/68024915/608/alter-v-openai-inc/); [The New York Times Company v. Microsoft Corporation, 1:23-cv-11195 (CourtListener)](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/)
+
+

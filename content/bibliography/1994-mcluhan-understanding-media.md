@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Understanding Media: The Extensions of Man"
 description: "McLuhan's classic account of media as extensions of human senses and social organization, arguing that the medium itself reshapes attention, scale, pace, and pattern more than content does."
 tags:
@@ -89,3 +90,5 @@ He gives us a vocabulary for attention, perception, and sensory rebalancing, but
 - [Media as Extensions](../frameworks/media-as-extensions.md): the framework distilled from this source.
 - [Boundary Testing](../frameworks/boundary-testing.md): useful for thinking about how AI systems turn shared media and knowledge into enclosed assets.
 - [Generative AI at Work](2025-brynjolfsson-generative-ai-at-work.md): firm-level evidence that AI changes the experience and structure of work, not just output.
+
+

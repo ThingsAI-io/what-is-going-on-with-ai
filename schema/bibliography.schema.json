@@ -3,7 +3,7 @@
   "$id": "https://okf-starter-kit.local/schema/bibliography.schema.json",
   "allOf": [
     {
-      "$ref": "https://okf-starter-kit.local/schema/content.schema.json"
+      "$ref": "https://raw.githubusercontent.com/ThingsAI-io/okf-validator/main/schemas/okf/v0.2/schema.json"
     },
     {
       "type": "object",

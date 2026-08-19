@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "VS Code's 'Co-authored-by: Copilot' Default: 4 Million Commits Branded in the Attribution Backlash Microsoft Reversed"
 description: "VS Code flipped its `git.addAICoAuthor` default from 'off' to 'all' in April 2026 (PR #310226), stamping 'Co-authored-by: Copilot <copilot@github.com>' onto every commit — even when AI features were disabled and even on commits with no AI involvement, with the trailer inserted after the commit-message UI — producing an estimated ~4 million branded commits, ~1,200-point Hacker News backlash, 'vandalism'/'marketing stunt' framing, an apology from the approving engineer, and a revert to 'off' in VS Code 1.119; GitHub Copilot's own AI code reviewer had flagged the config mismatch before merge."
 tags:
@@ -86,3 +87,4 @@ For the [territories model](../model/territories-of-the-ai-frontier.md), this is
 - [Windows Central — "'This could cost people their jobs': VS Code added Copilot as co-author..." (May 5, 2026)](https://www.windowscentral.com/software-apps/this-could-cost-people-their-jobs-vs-code-added-copilot-as-co-author-without-permission-or-notice) — corroborating.
 - [OSTechnix — "Microsoft Apologizes for Enabling AI Co-Author by Default in VS Code" (May 3, 2026)](https://ostechnix.com/vs-code-ai-co-author-controversy-explained/) — corroborating (praise/backlash, apology text).
 - [DEV.to — "VS Code Now Credits Copilot on Every Commit by Default" (May 22, 2026)](https://dev.to/arthurpro/vs-code-now-credits-copilot-on-every-commit-by-default-446) — corroborating (defaults-as-policy analysis).
+

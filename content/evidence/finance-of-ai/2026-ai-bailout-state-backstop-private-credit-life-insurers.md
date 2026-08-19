@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "The AI Bailout Baked Into the AI Bubble: Dayen on Private Credit, Life Insurers, and the State Backstop"
 description: "David Dayen's American Prospect analysis (Aug 2026) applying Granato and Drall's private-credit/life-insurer paper to the AI bubble: private equity's ~$3tn private-credit arm funds AI data centers, the loans land on PE-owned life insurers, and state guaranty funds plus premium-tax credits turn the downside into a taxpayer backstop — while the AI market rout in July 2026 (Aschenbrenner's fund -67%, Nasdaq's second correction) raises the stakes."
 tags:
@@ -99,3 +100,5 @@ It also complements the [Microsoft capex evidence entry](2026-microsoft-fy26-q4-
 - **The paper is not AI-specific.** Granato and Drall analyze the PE-life-insurer-private-credit model generally; the AI connection is Dayen's application. The mechanism's claims about data-center loans and mass default are Dayen's framing of the paper's general argument, not the paper's own findings.
 - **The ~15% insolvency threshold is a stress-test estimate** (from studies the paper cites), not a realized event; the authors explicitly note no large insurer has failed under the guaranty-fund regime, and the paper's empirical magnitudes come from unpublished working papers.
 - **State-by-state heterogeneity is large:** assessment caps, coverage limits, crediting timelines, and even coverage of unallocated annuities vary across the 50 states; national figures aggregate divergent rules.
+
+

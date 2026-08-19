@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "Determinants of Artificial Intelligence Adoption: Research Themes and Future Directions"
 description: "Bibliometric analysis of 91 AI adoption studies identifying four major themes (AI/ML, UTAUT, TAM, industry applications) and systematic gaps in adoption research"
 tags:
@@ -350,3 +351,5 @@ For this project, that is a problem statement. It suggests the bibliography cann
 - **Authors' affiliations**: Australian universities (Edith Cowan, La Trobe)—no indication of technology industry connections, suggests academic rather than practitioner perspective
 - **Bibliometric method strength**: Systematic, quantitative, reduces reviewer bias compared to narrative reviews
 - **Bibliometric method limitation**: Can only analyze what's published—if UTAUT/TAM underutilized in publications, might still be used in practice but not reported in academic literature
+
+

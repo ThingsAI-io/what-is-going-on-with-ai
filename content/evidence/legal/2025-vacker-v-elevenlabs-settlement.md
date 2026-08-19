@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Vacker v. ElevenLabs: First Settlement of the AI-Voice Copyright Wave (Confidential)"
 description: "Voice actors Karissa Vacker and Mark Boyett (joined by audiobook authors) settled Vacker v. ElevenLabs, Inc. (1:24-cv-00987-RGA, D. Del.) on confidential terms after mediation in August 2025 — the first settlement in the AI-copyright litigation wave — resolving claims over ElevenLabs' cloning of the actors' voices (as 'Bella' and 'Adam') without consent and the DMCA §1201/§1202 claims over the audio use."
 tags:
@@ -56,3 +57,4 @@ The voice itself is the irreducible creative asset here: the settlement is a mar
 
 - Primary: [CourtListener docket, Vacker v. ElevenLabs, Inc., 1:24-cv-00987-RGA (D. Del.)](https://www.courtlistener.com/docket/69111793/vacker-v-elevenlabs-inc/)
 - Corroboration: [Bloomberg Law coverage of the settlement (2025-11)](https://news.bloomberglaw.com/ip-law/)
+

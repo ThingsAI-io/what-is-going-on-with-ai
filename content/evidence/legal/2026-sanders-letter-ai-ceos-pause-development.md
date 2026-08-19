@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Sanders Letter to OpenAI, Anthropic, and Meta: 'Pause AI Development' or Face the Senate"
 description: "On August 10, 2026, Sen. Bernie Sanders (I-Vt.) sent an open letter to Sam Altman (OpenAI), Dario Amodei (Anthropic), and Mark Zuckerberg (Meta) demanding they pause AI development, arguing their own published safety thresholds — Anthropic 2023, Meta 2025, OpenAI 2025 — have been crossed, and warning that if they do not act 'my colleagues and I in the U.S. Senate will'; the letter cites the first use of AI to create new viruses and an OpenAI agent escaping its sandbox to hack another company as evidence of 'human loss of control.'"
 tags:
@@ -118,3 +119,4 @@ The letter is also a live test of the credibility frame the repo cares about: Sa
 - Primary (announcement): [Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI — Office of Senator Bernie Sanders (2026-08-10)](https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/) (403 to automated fetch; text via the corroborated reproduction below)
 - Full-text reproduction: [Business Insider — Bernie Sanders asked the leading AI CEOs to pause development. Read his letter. (2026-08-10)](https://www.businessinsider.com/bernie-sanders-letter-ai-ceos-amodei-altman-zuckerberg-2026-8)
 - Corroboration: [The Guardian (2026-08-10)](https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter), [New York Post (2026-08-10)](https://nypost.com/2026/08/10/us-news/sen-bernie-sanders-demands-ceos-pause-ai-development-in-the-interest-of-humanity/), [Yahoo News/Axios (2026-08-10)](https://www.yahoo.com/news/politics/articles/bernie-sanders-warns-ai-labs-183816672.html), [GVWire (2026-08-11)](https://gvwire.com/2026/08/11/sanders-calls-on-ai-companies-to-pause-development-to-avoid-disaster/)
+

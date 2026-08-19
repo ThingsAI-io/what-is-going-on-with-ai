@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "IFJ Global Framework Agreement on AI in the Media: Journalists' World Congress Sets Rules for AI Use in News"
 description: "At its World Congress in Paris (4-7 May 2026), the International Federation of Journalists (IFJ) adopted a resolution and annexed Global Framework Agreement on artificial intelligence in the media — establishing non-negotiable principles that no final editorial decision may be entrusted to AI, that no journalist may be evaluated, sanctioned or dismissed on the sole basis of an AI decision, and that journalistic content may not be used to train AI without prior notification, explicit consent, traceability and fair remuneration (including separate inference-phase compensation for freelancers), alongside a Global AI and Media Observatory."
 tags:
@@ -76,3 +77,4 @@ It also speaks to the AI-economy labor question directly: the "no dismissal on t
 
 - Primary: [IFJ — Resolution of the IFJ World Congress on Artificial Intelligence in the Media + Global Framework Agreement (Paris, 4-7 May 2026) — PDF](https://www.ifj.org/fileadmin/IA_-_Framework_Agreement_4_mai_2026____EN.docx.pdf)
 - [IFJ — AI in the media hub](https://www.ifj.org/)
+

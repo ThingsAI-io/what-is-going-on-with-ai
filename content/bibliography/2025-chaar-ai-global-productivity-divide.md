@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "AI and the Global Productivity Divide"
 description: "OECD policy paper analyzing how AI productivity benefits distribute across the global income spectrum, finding that structural weaknesses in low-income countries risk making AI a force for divergence rather than convergence."
 tags:
@@ -211,3 +212,5 @@ That matters for the repo's model layer because it prevents a HIC-centric view f
 
 > "it is difficult to conclude that AI will disproportionately boost the capacity of low-skilled workers to perform high-skill tasks outside their occupation and allow low-education workers in LICs and LMICs to perform high-skill jobs."  
 > — On the limits of AI as an equalizer across occupations (Section 2, p. 25)
+
+

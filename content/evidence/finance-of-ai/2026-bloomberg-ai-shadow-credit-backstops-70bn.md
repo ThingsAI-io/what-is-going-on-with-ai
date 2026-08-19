@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Bloomberg: ~$70 Billion of AI 'Shadow Credit Backstops' Off Balance Sheets Worries Bond Traders"
 description: "Bloomberg (Aug 15, 2026) reports roughly $70 billion in 'phantom liabilities' — residual-value credit backstops not carried on major AI companies' balance sheets — as the sum of the three known deals (Meta's Beignet ~$28bn and Sopaipilla ~$13bn backstops; Broadcom's Big Sky ~$29bn backstop for Anthropic chip financing), with the risk surface growing as Nvidia's new $500bn financing partnership tees up up-to-25% residual-value support; S&P will count such support as 'contingent debt-like obligation,' and CreditSights calls it a pro-cyclical 'written put' that is 'nearly costless in the boom phase, but becomes most relevant in a severe, abrupt downturn.'"
 tags:
@@ -94,3 +95,4 @@ The structure itself is a textbook application of the repo's framing of capital 
 - [Yahoo Finance — "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies" (Aug 15, 2026)](https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html) — full-text syndication.
 - [The Business Times — "US$70 billion in 'phantom liabilities': Why bond traders are worried about AI firms' credit backstops" (Aug 16, 2026)](https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/us70-billion-phantom-liabilities-why-bond-traders-are-worried-about-ai-firms-credit-backstops) — full-text syndication.
 - [The Edge Malaysia — "Bond traders are agonising over US$70 bil of shadow credit backstops for AI companies" (Aug 16, 2026)](https://theedgemalaysia.com/node/814667) — corroborating (deal table).
+

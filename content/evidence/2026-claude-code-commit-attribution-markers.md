@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Claude Code's Default 'Co-Authored-By: Claude' Commit Markers: Vendor Branding in User Git History"
 description: "Claude Code ships with a default-on behavior that appends 'Co-Authored-By: Claude <noreply@anthropic.com>' to every git commit and a '🤖 Generated with Claude Code' line to pull-request bodies — an attribution the US Copyright Office explicitly advises against ('should not list an AI technology... as an author or co-author'), producing sustained 2025–2026 backlash framed as 'branding user work,' while the mirror-image problem (autonomous agent commits credited to the human's GitHub identity, 338 lines of Go merged under kody-w's name) shows attribution cutting both ways in the output territory."
 tags:
@@ -76,3 +77,4 @@ It pairs with the [Murphy-Hill coding-agents evidence](2026-murphy-hill-command-
 - [Linux kernel — "Coding Style / Coding assistant conventions" (Assisted-by)](https://docs.kernel.org/process/coding-assistants.html) — primary (community resolution).
 - [Kody Wildfeuer — "The Attribution Problem: When Your AI Ships Code Under Your Name" (Mar 26, 2026)](https://kody-w.github.io/2026/03/26/the-attribution-problem-when-your-ai-ships-code-under-your-name/) — corroborating (human-identity direction).
 - [Fabio Rehm — "Our coding agent commits deserve better than Co-Authored-By" (Mar 2, 2026)](https://fabiorehm.com/blog/2026/03/02/our-coding-agent-commits-deserve-better-than-co-authored-by/) — corroborating (metadata mechanics).
+

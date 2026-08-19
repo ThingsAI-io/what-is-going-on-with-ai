@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "The Anti-Data-Center Backlash Is Bipartisan: 70% of Americans Oppose Local Construction, and Statehouses of Both Parties Are Responding"
 description: "Gallup polling (May 2026) finds ~70-71% of Americans oppose a data center in their area — 75% of Democrats and 63% of Republicans, with conservative Republicans (53%) opposing more than moderate ones (44%); backlash has produced a first-in-the-nation statewide moratorium (New York, July 14, 2026), a Texas regulatory crackdown (Gov. Abbott, June 2026), ~300 local bans/moratoria, and a national protest day (July 18, 2026, 142 protests in 42 states)."
 tags:
@@ -88,3 +89,4 @@ For the finance-of-ai layer, this is a risk input: hyperscalers' [capex commitme
 - [NYT — "This Could Be the Winning Issue for Democrats" (Jun 12, 2026)](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html) — corroborates 71% Gallup and Tulsa/Birmingham/New Orleans moratoria.
 - [NBC News — "Reining in data centers sparks rare bipartisanship in statehouses" (Mar 14, 2026)](https://www.nbcnews.com/politics/politics-news/reining-data-centers-sparks-rare-bipartisanship-statehouses-rcna262990) — statehouse legislation sweep; Virginia ~$1.6B tax-break repeal.
 - [The New Yorker — "A.I. Is Now a Major Election Issue" (Aug 9, 2026)](https://www.newyorker.com/magazine/2026/08/17/ai-is-now-a-major-election-issue) — midterms context.
+

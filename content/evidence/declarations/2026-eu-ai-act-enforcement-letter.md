@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "AI Researchers, Civil Society, and MEPs Urge the EU Commission to Use Its New Frontier-Model Enforcement Powers"
 description: "On July 9, 2026, AI researchers (Yoshua Bengio, Stuart Russell, José Hernández-Orallo, Carina Prunkl), MEPs (Michael McNamara, Reinier Van Lanschot, Sergey Lagodinsky), and civil-society representatives signed an open letter to Commission President Ursula von der Leyen and Executive Vice-President Henna Virkkunen, calling on the EU to use its AI Act enforcement powers against general-purpose AI models with systemic risk (GPAISR) as they come into force on August 2, 2026 — citing Anthropic's Mythos model's reported cyber capabilities, approaching biology and loss-of-control thresholds, and the sovereignty stakes of Europe's exclusion from Project Glasswing and US export controls restricting non-US-citizen access to Anthropic's Fable model."
 tags:
@@ -77,3 +78,4 @@ The letter's cited risk landscape (Mythos cyber-offence capabilities, biology, l
 - [NYT — Anthropic's Mythos (2026-04-22)](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)
 - [METR — GPT 5.6 Sol evaluation (2026-06-26)](https://metr.org/blog/2026-06-26-gpt-5-6-sol/)
 - [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)
+

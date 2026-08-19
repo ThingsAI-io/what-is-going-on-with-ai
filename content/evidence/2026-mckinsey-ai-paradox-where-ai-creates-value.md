@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "The AI Paradox: McKinsey on Where AI Will Create Value"
 description: "McKinsey Strategy & Corporate Finance analysis (April 2026) finding that adoption of generative and agentic AI is growing and investment accelerating while sustained impact on corporate performance is elusive — almost nine in ten companies deploy AI in at least one function, but 94% of surveyed respondents report no 'significant' value — and locating real value in product, business-model, and market-structure change rather than productivity."
 tags:
@@ -66,3 +67,4 @@ McKinsey supplies the strategy-practice account of the same gap the [Atlassian s
 
 - Primary: [McKinsey — "Where AI will create value—and where it won't"](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/where-ai-will-create-value-and-where-it-wont) (2026-04-29; text confirmed via verbatim excerpts at the canonical URL)
 - Corroborating/context: [The Next Web — "McKinsey's new AI report argues the productivity payoff is real but conditional"](https://thenextweb.com/news/mckinsey-ai-productivity-paradox-enterprise-roi-capex) (2026-05-01)
+

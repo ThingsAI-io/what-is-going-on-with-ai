@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Richner, MediaNews, and Ogden Newspapers v. Microsoft & OpenAI: ~400 Local Publishers Sue Over Training Data"
 description: "On June 24, 2026, roughly 400 local newspapers — including Richner Communications, MediaNews Group (~150 titles), Ogden Newspapers (~40 titles), and 40+ independent publishers — filed suit in the Southern District of New York against Microsoft and OpenAI, alleging the 'systematic and willful theft of hundreds of thousands of copyrighted articles' (many paywalled), stripped copyright management information via the Dragnet and Newspaper extractors, and used plaintiffs' content in the C4 and WebText datasets that trained ChatGPT and Microsoft Copilot."
 tags:
@@ -70,3 +71,5 @@ It also extends the [Durand and Vergne](../../bibliography/2010-durand-vergne-or
 
 - Primary: [Complaint, Richner Communications, Inc., et al. v. Microsoft Corporation and OpenAI, Inc. (PDF, via MediaNama)](https://www.medianama.com/wp-content/uploads/2026/06/Richner-publishers-openAI-complaint.pdf)
 - Corroboration: [Editor & Publisher, "~400 local newspapers sue Microsoft and OpenAI" (2026-06-24)](https://www.editorandpublisher.com/)
+
+

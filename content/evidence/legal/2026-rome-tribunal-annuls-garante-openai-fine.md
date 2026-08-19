@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Court of Rome Annuls the €15 Million GDPR Fine the Garante Imposed on OpenAI"
 description: "The Tribunale di Roma (judgment 4153/2026, decided 18 March 2026, reasoning published 28 May 2026) annulled Garante Decision 755 of 2 November 2024, which had fined OpenAI €15 million and ordered a six-month awareness campaign over ChatGPT's data processing — the only final GDPR enforcement action ever adopted against a generative-AI provider for the 2022-2023 launch period. The annulment turned on jurisdiction: after OpenAI Ireland was recognized as the company's single EEA establishment (15 February 2024), the Garante lost competence under the one-stop-shop mechanism."
 tags:
@@ -97,3 +98,5 @@ This is the privacy pillar of the repo's evidence on the AI frontier. Three obse
 - Underlying measure (archived): [Garante provvedimento n. 755 del 2.11.2024 (mirror)](https://www.consultingpb.com/wp-content/uploads/2024/12/GarantePrivacy-10085455-1.5.pdf); [English mirror](https://dpo-india.com/Resources/Fines_and_Penalties_by_DPAs_on_Privacy_Violations/Italy-DPA/Italian-DPA-vs-OpenAI-02.11.24.pdf)
 - Garante press release (notes removal of Decision 755): [Garante, 20 Dec 2024, docweb 10085432](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10085432)
 - Corroboration: [Reuters, "Italian court scraps 15-million-euro privacy watchdog fine" (2026-03-19)](https://www.reuters.com/technology/italian-court-scraps-15-million-euro-privacy-watchdog-fine-chatgpt-maker-openai-2026-03-19/); [notraced, "The Court of Rome just annulled the €15M OpenAI fine" (2026-04-18)](https://notraced.com/articles/court-of-rome-annuls-openai-fine); [ppc.land, "Italian court kills OpenAI's €15M fine" (2026-05-28)](https://ppc.land/italian-court-kills-openais-eur15m-fine-and-it-wasnt-even-close/); [European Law Blog, "Establish, Then Escape?" (2026-06-04)](https://www.europeanlawblog.eu/pub/92oig1ws); [Altalex (2026-03-27)](https://www.altalex.com/documents/news/2026/03/27/openai-tribunale-roma-annulla-sanzione-garante-privacy)
+
+

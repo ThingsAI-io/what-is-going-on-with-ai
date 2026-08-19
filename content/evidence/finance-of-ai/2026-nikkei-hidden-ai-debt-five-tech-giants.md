@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Hidden AI Debts of Five US Tech Giants: Nikkei's $1.65tn Estimate"
 description: "Nikkei Asia's investigation estimating that off-balance-sheet AI commitments at Meta, Oracle, Microsoft, Alphabet, and Amazon reached $1.65 trillion, eightfold growth in four years, exceeding reported balance-sheet debt, with figures reconstructed from SEC filings across seven independent analyses."
 tags:
@@ -145,3 +146,4 @@ This investigation is the most concrete public documentation of the **credit tra
 - The Nikkei article is paywalled; only its headline figure, lede, and selected details were confirmed directly from Nikkei. Per-company numbers rely on reconstruction from SEC filings by third-party analysts (CCIR, Finterm, MLQ), which use slightly different category sets and reporting dates.
 - "Hidden debt" is an estimate construction, not a GAAP line item; most of the total is disclosed, executory, and not interest-bearing. The arithmetic is corroborated (Finterm reproduces $1,650.7bn and the 8.0015× four-year growth; CCIR sums ~$1.67tn), so all five of the disputed-framing bullets in the section above rest on the fact-check, not on the primary source alone.
 - Subsequent disclosures have moved the numbers: Alphabet's Q2 2026 figures raise the five-company total to roughly $2.14tn under Finterm's sensitivity update.
+

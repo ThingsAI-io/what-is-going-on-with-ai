@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Kevin O'Leary's $100B 'Stratos' Data Center in Box Elder County, Utah: County Approval, Statewide Backlash, and a Referendum Challenge"
 description: "O'Leary Digital's Stratos Project — up to 40,000 acres and 9GW in Box Elder County, Utah — passed MIDA (Apr 24) and the county commission (May 4, 2026) despite hundreds of protesters and a pending referendum drive; polling shows 60% of Utah voters oppose it (Deseret/Hinckley, Jun 2026), and its 9GW demand roughly doubles the state's peak electric load, directly endangering the threatened Great Salt Lake."
 tags:
@@ -74,3 +75,4 @@ The **100% property tax relief** is the specific policy lever that turns siting 
 - [Deseret News — "Key to national security or an environmental threat?" (May 4, 2026)](https://www.deseret.com/utah/2026/05/04/key-to-national-security-or-an-environmental-threat-data-center-debate-coming-to-a-head/) — pre-vote stakes.
 - [Deseret News — "Data center fallout upends Utah politics, ousting Senate president" (Jun 25, 2026)](https://www.deseret.com/politics/2026/06/24/new-poll-on-utah-data-center-opposition-after-state-senate-president-stuart-adams-is-ousted/) — Jun 2026 poll (Morning Consult/Hinckley).
 - [Fortune — "Shark Tank's Kevin O'Leary is building a $100 billion data center in Utah. Residents are revolting" (May 11, 2026)](https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/) — $100B figure.
+

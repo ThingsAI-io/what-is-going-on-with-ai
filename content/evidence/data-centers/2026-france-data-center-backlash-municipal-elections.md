@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "France's Data-Center Backlash Spills Into Municipal Elections, Moratoria Calls, and Legal Challenges"
 description: "Reuters reported in March 2026 that candidates in at least 10 French towns - including Le Bourget, Marseille, and Bordeaux - were campaigning against new data centres or calling for moratoria and more transparency; Le Bourget candidates cited heat islands, noise, few jobs, and school-adjacent siting, while French authorities required extra noise/air studies and a public meeting for the project."
 tags:
@@ -76,3 +77,5 @@ The French state is not anti-data-centre. It is trying to attract investment whi
 - [Reuters - "A backlash against data centres is spilling into French municipal election races" (Mar 13, 2026)](https://www.reuters.com/sustainability/climate-energy/backlash-against-data-centres-is-spilling-into-french-municipal-election-races-2026-03-13/) - primary reporting (search snippet / syndicated copies used here).
 - [CNA - "A backlash against data centres is spilling into French municipal election races" (Mar 13, 2026)](https://www.channelnewsasia.com/business/backlash-against-data-centres-spilling-french-municipal-election-races-5991271) - syndicated copy.
 - [Yahoo - "A backlash against data centres is spilling into French municipal election races" (Mar 13, 2026)](https://www.yahoo.com/news/articles/backlash-against-data-centres-spilling-070401352.html) - syndicated copy.
+
+

@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "AI 2027: The AI Futures Project's Scenario Forecast of Agent-Driven Intelligence Explosion"
 description: "AI 2027, published April 3, 2025, was the first major release of the AI Futures Project — a detailed, quantified scenario by former OpenAI governance researcher Daniel Kokotajlo and team projecting AI agents by 2026, a superhuman coder by early 2027, and an intelligence explosion leading to artificial superintelligence by December 2027, with two endings (race ending in AI takeover; slowdown ending in coordinated global action); unlike its successor Plan A, AI 2027 is explicitly a prediction, not a recommendation."
 tags:

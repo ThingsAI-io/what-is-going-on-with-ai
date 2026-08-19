@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "Encyclopaedia Britannica and Merriam-Webster v. OpenAI: ~100,000 Articles, Collective Registrations, and Hallucination Claims"
 description: "Encyclopaedia Britannica, Inc. and Merriam-Webster, Inc. sued nine OpenAI entities (1:26-cv-02097, S.D.N.Y., filed 13 March 2026, Judge Stein) alleging OpenAI copied nearly 100,000 online encyclopedia and dictionary entries — covered by 13 collective-work registrations — to train models, reproduced them near-verbatim, and falsely attributed hallucinated answers to the Britannica and Merriam-Webster marks under the Lanham Act; the case was stayed pending summary judgment motions in the consolidated OpenAI copyright MDL on 21 April 2026."
 tags:
@@ -69,3 +70,4 @@ Procedurally, the stay pending MDL summary-judgment decisions makes this case a 
 - Primary: [CourtListener docket, Encyclopaedia Britannica, Inc. v. OpenAI, Inc., 1:26-cv-02097](https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/)
 - Complaint facsimile: [Courthouse News (PDF)](https://www.courthousenews.com/wp-content/uploads/2026/03/britannica-openai-sdny-copyright-complaint.pdf)
 - Corroboration: [Reuters, "Encyclopedia Britannica sues OpenAI over AI training" (2026-03-16)](https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/)
+

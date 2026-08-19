@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "'We Must Act Now': 200+ Economists and 16 Nobel Laureates Call for Preparation for AI's Economic Transformation"
 description: "A statement released July 13, 2026, organized by the Stanford Digital Economy Lab (Brynjolfsson, Agrawal, Korinek, Cunningham) and signed by more than 200 economists and AI researchers including 16 Nobel laureates, warning that AI 'could drive an unprecedented transformation of our economy, larger than the Industrial Revolution, but unfolding over a vastly shorter time frame,' bringing risks of 'large-scale job displacement' as well as opportunities, and urging economists, policymakers, and technology leaders to act now to build 'incentives, guardrails, and institutions.'"
 tags:
@@ -101,3 +102,4 @@ The statement pairs with the [AI Paradox: McKinsey reading](../2026-mckinsey-ai-
 - Primary: ["We Must Act Now: A Statement on AI's Transformation of the Economy" — wemustactnow.ai](https://wemustactnow.ai)
 - Announcement: [Stanford Digital Economy Lab — "We Must Act Now": Sixteen Nobel Laureates Join Leading Economists and AI Researchers (2026-07-13)](https://digitaleconomy.stanford.edu/news/wemustactnow/)
 - Corroboration: [AP — Hundreds of economists say 'we must act now' on AI's economic impact (2026-07-13)](https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee), [The Washington Post (2026-07-13)](https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/), [NYT (2026-07-13)](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html), [Reuters/Al Jazeera (2026-07-13)](https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact), [QZ (2026-07-13)](https://qz.com/economists-ai-job-displacement-industrial-revolution-statement-071326)
+

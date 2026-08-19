@@ -1,5 +1,6 @@
 ---
 type: Evidence
+schema: evidence.schema.json
 title: "China's Data-Center Boom Turns Into a State-Corrected Capacity Glut, Not an Open Public Backlash"
 description: "Reuters reported in July 2025 that China was building a network to sell surplus computing power after a three-year data-center boom created a capacity glut: the state planner was reviewing the sector, MIIT was working with state telecoms on a national cloud, utilization was only 20%-30%, and over 100 projects had been cancelled in 18 months."
 tags:
@@ -75,3 +76,5 @@ This also fits the [productivity J-curve](../../frameworks/productivity-j-curve.
 - [Reuters - "China plans network to sell surplus computing power in crackdown on data centre glut" (Jul 24, 2025)](https://www.reuters.com/technology/china-plans-network-sell-surplus-computing-power-crackdown-data-centre-glut-2025-07-24/) - primary reporting (search snippet / syndicated copies used here).
 - [MarketScreener - Reuters syndicated copy](https://www.marketscreener.com/news/china-plans-network-to-sell-surplus-computing-power-in-crackdown-on-data-centre-glut-ce7c5cd3d880f325) - full Reuters text.
 - [Developing Telecoms - Reuters report summary](https://developingtelecoms.com/telecom-technology/data-centres-networks/18828-china-plans-national-network-to-sell-excess-data-centre-capacity-report.html) - corroborating summary.
+
+

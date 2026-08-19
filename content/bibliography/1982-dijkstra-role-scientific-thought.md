@@ -1,5 +1,6 @@
 ---
 type: Bibliography
+schema: bibliography.schema.json
 title: "On the Role of Scientific Thought"
 description: "Dijkstra's essay argues that scientific thought is a disciplined way of isolating concerns, using examples from programming, language design, and computing education to defend rigor over muddled compromise."
 tags:
@@ -56,3 +57,5 @@ It is also rooted in the computing culture of the 1970s, so its examples are dat
 ## Citation Note
 
 There is a small bibliographic ambiguity around this source. The essay was written as EWD 447 on 30 August 1974, but the canonical library citation is the 1982 Springer chapter reprint in *Selected Writings on Computing: A personal Perspective* (pp. 60-66). This entry follows the Springer chapter as the formal citation and records the 1974 manuscript date in the reference metadata.
+
+
